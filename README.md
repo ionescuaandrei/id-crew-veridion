@@ -21,7 +21,7 @@ ollama run ollama:8b
 - **5 Round Matches** with cumulative scoring
 - **Victory Conditions**:
   - Success: Deduct word cost only
-  - Failure: Deduct cost + $5 penalty
+  - Failure: Deduct cost + $30 penalty
   - Lowest total cost after 5 rounds wins
 
 ### Battle Logic Hierarchy
