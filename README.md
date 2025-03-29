@@ -89,8 +89,8 @@ Content-Type: application/json
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/words-of-power.git
-cd words-of-power
+git clone https://github.com/ionescuaandrei/id-crew-veridion
+cd id-crew-veridion
 
 # Install dependencies
 pip install flask requests
