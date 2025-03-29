@@ -12,7 +12,7 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 # Run the specific model from [Ollama Models](https://ollama.com/search)
 ollama run ollama:8b 
-
+```
 
 ## Game Rules
 
