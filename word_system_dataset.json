@@ -1,0 +1,4792 @@
+{"training_data" : [
+  {
+    "word_id": 1,
+    "text": "Feather",
+    "cost": 1,
+    "tier": "low",
+    "categories": [
+      "natural"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral"
+    ],
+    "material_composition": [
+      "keratin"
+    ],
+    "physical_properties": {
+      "density": "low",
+      "flammability": "medium",
+      "conductivity": "low",
+      "durability": "low",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["bird"],
+      "evolutionary_purpose": ["insulation", "flight", "display"]
+    },
+    "symbolic_associations": ["lightness", "freedom", "spirituality"],
+    "cultural_significance": [
+      "used in indigenous headdresses",
+      "quill writing tools in historical contexts",
+      "associated with angels or divine messengers"
+    ],
+    "tactical_role": ["distraction", "camouflage", "decoy"],
+    "strengths_against": {
+      "system_word_types": ["heavy", "mechanical", "fire-based"],
+      "examples": ["Anvil", "Gear", "Flamethrower"],
+      "mechanism": "Can exploit low weight and dispersal to evade or neutralize brute force or predictable mechanical movements"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["water", "blunt_force", "chemical"],
+      "examples": ["Rain", "Hammer", "Acid"]
+    },
+    "synergy_with": ["Wind", "Quill", "Sky", "Bird"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 1.2,
+      "penalty_avoidance_score": 24,
+      "versatility_index": 14
+    },
+    "hypothetical_scenarios": [
+      "Used to distract sentries by tossing into air currents",
+      "Combined with 'Ink' to craft a communication tool in limited resource settings"
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "quill pens for writing",
+        "used in bedding and insulation",
+        "fletching for arrows"
+      ],
+      "mythological_references": [
+        "Feathers from the wings of Icarus",
+        "Egyptian Ma'at's feather of truth for judgment of souls"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "to": "Wing",
+        "cost": 3,
+        "benefits": ["increased mobility", "evasion potential"]
+      },
+      {
+        "to": "Quill",
+        "cost": 2,
+        "benefits": ["communication utility", "historical synergy"]
+      }
+    ]
+  },  
+  {
+    "word_id": 2,
+    "text": "Coal",
+    "cost": 1,
+    "tier": "low",
+    "categories": ["natural"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["fire"],
+    "material_composition": ["carbon"],
+    "physical_properties": {
+      "density": "high",
+      "flammability": "high",
+      "conductivity": "low",
+      "durability": "medium",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["prehistoric_plant_matter"],
+      "evolutionary_purpose": ["fossilized_energy_storage"]
+    },
+    "symbolic_associations": ["energy", "industry", "punishment"],
+    "cultural_significance": [
+      "symbol of the industrial revolution",
+      "used in folklore as a bad gift (e.g., Santa Claus and naughty children)",
+      "associated with manual labor and early electricity"
+    ],
+    "tactical_role": ["fuel_source", "smokescreen", "heat_generator"],
+    "strengths_against": {
+      "system_word_types": ["cold", "organic", "fragile_structures"],
+      "examples": ["Ice", "Leaf", "Glass"],
+      "mechanism": "Burns or weakens temperature-sensitive and flammable materials"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["water", "air", "clean_energy"],
+      "examples": ["Flood", "Wind", "Solar Panel"]
+    },
+    "synergy_with": ["Fire", "Steam", "Iron", "Engine"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 1.4,
+      "penalty_avoidance_score": 18,
+      "versatility_index": 12
+    },
+    "hypothetical_scenarios": [
+      "Used to smother light-based sensors by generating smoke",
+      "Activates steam-based mechanisms in early tech scenarios"
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "fuel for steam engines",
+        "electricity generation",
+        "used in metallurgy"
+      ],
+      "mythological_references": [
+        "symbol of burden and punishment in Victorian moral tales"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "to": "Charcoal",
+        "cost": 2,
+        "benefits": ["lighter, burns cleaner", "used in filtration or drawing"]
+      },
+      {
+        "to": "Carbon Core",
+        "cost": 4,
+        "benefits": ["high energy density", "advanced material interactions"]
+      }
+    ]
+  },  
+  {
+    "word_id": 3,
+    "text": "Pebble",
+    "cost": 1,
+    "tier": "low",
+    "categories": ["natural"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["earth"],
+    "material_composition": ["stone"],
+    "physical_properties": {
+      "density": "medium",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "high",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [],
+      "evolutionary_purpose": []
+    },
+    "symbolic_associations": ["simplicity", "persistence", "small power"],
+    "cultural_significance": [
+      "used in children's games (e.g., skipping stones)",
+      "featured in fables as tools of cleverness (e.g., David and Goliath)",
+      "represents meditation and minimalism in Zen gardens"
+    ],
+    "tactical_role": ["projectile", "trip hazard", "distraction"],
+    "strengths_against": {
+      "system_word_types": ["glass", "delicate_structures", "wind"],
+      "examples": ["Vase", "Feather", "Smoke"],
+      "mechanism": "Simple mass and durability can break or resist delicate or unstable entities"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["large_mass", "fire", "magnetism"],
+      "examples": ["Boulder", "Coal", "Magnet"]
+    },
+    "synergy_with": ["Slingshot", "River", "Stone"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 1.3,
+      "penalty_avoidance_score": 22,
+      "versatility_index": 15
+    },
+    "hypothetical_scenarios": [
+      "Thrown to trigger motion sensors or distract guards",
+      "Stacked as signal markers in a primitive signaling system"
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "used as early tools or weapons",
+        "landscaping and construction foundations",
+        "symbols in voting systems (ostraka in ancient Greece)"
+      ],
+      "mythological_references": [
+        "David defeating Goliath with a small stone"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "to": "Stone",
+        "cost": 2,
+        "benefits": ["greater impact", "durability in combat"]
+      },
+      {
+        "to": "Sling Pebble",
+        "cost": 3,
+        "benefits": ["projectile optimization", "long-range utility"]
+      }
+    ]
+  },  
+  {
+    "word_id": 4,
+    "text": "Leaf",
+    "cost": 2,
+    "tier": "low",
+    "categories": ["natural"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["earth"],
+    "material_composition": ["cellulose"],
+    "physical_properties": {
+      "density": "low",
+      "flammability": "high",
+      "conductivity": "low",
+      "durability": "low",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["plants", "trees"],
+      "evolutionary_purpose": ["photosynthesis", "gas_exchange", "cooling"]
+    },
+    "symbolic_associations": ["renewal", "fragility", "growth"],
+    "cultural_significance": [
+      "used as a symbol of nature and eco-awareness",
+      "represents seasonal change (especially autumn)",
+      "common motif in poetry and art"
+    ],
+    "tactical_role": ["camouflage", "signal", "bio-lure"],
+    "strengths_against": {
+      "system_word_types": ["mechanical", "rigid"],
+      "examples": ["Gear", "Metal Sheet"],
+      "mechanism": "Unpredictable motion and soft texture make targeting difficult"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["fire", "water", "blunt_force"],
+      "examples": ["Flame", "Rain", "Rock"]
+    },
+    "synergy_with": ["Wind", "Branch", "Tree"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.9,
+      "penalty_avoidance_score": 23,
+      "versatility_index": 13
+    },
+    "hypothetical_scenarios": [
+      "Used to mark trails or send secret signals in forest missions",
+      "Layered to muffle sound or hide small items"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["natural compost", "primitive coverings", "herbal remedies"],
+      "mythological_references": ["Adam and Eve’s fig leaf in biblical texts"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "to": "Vine",
+        "cost": 3,
+        "benefits": ["binding utility", "climbing aid"]
+      },
+      {
+        "to": "Leaf Swarm",
+        "cost": 4,
+        "benefits": ["distraction field", "visibility reduction"]
+      }
+    ]
+  },  
+  {
+    "word_id": 5,
+    "text": "Paper",
+    "cost": 2,
+    "tier": "low",
+    "categories": ["natural"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral"],
+    "material_composition": ["processed_wood_fiber"],
+    "physical_properties": {
+      "density": "low",
+      "flammability": "high",
+      "conductivity": "low",
+      "durability": "low",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["trees"],
+      "evolutionary_purpose": []
+    },
+    "symbolic_associations": ["knowledge", "fragility", "expression"],
+    "cultural_significance": [
+      "foundation of communication and documentation",
+      "symbol of bureaucracy and education",
+      "used in origami and ceremonial art"
+    ],
+    "tactical_role": ["message carrier", "concealment", "decoy"],
+    "strengths_against": {
+      "system_word_types": ["sensor", "signal", "optical"],
+      "examples": ["Laser Grid", "Infrared Sensor"],
+      "mechanism": "Can block or confuse certain detection methods when folded or stacked"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["fire", "liquid", "sharp"],
+      "examples": ["Fire", "Ink Spill", "Blade"]
+    },
+    "synergy_with": ["Ink", "Feather", "Scroll"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 1.0,
+      "penalty_avoidance_score": 23,
+      "versatility_index": 13
+    },
+    "hypothetical_scenarios": [
+      "Used to carry encoded messages",
+      "Stacked into decoy documents in espionage missions"
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "books and literature",
+        "currency printing",
+        "scientific documentation"
+      ],
+      "mythological_references": [
+        "scrolls of fate in ancient lore"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "medium",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "to": "Scroll",
+        "cost": 3,
+        "benefits": ["holds magical knowledge", "arcane interactions"]
+      },
+      {
+        "to": "Origami Creature",
+        "cost": 4,
+        "benefits": ["animation potential", "distraction or minor utility"]
+      }
+    ]
+  }
+  ,
+  {
+    "word_id": 6,
+    "text": "Rock",
+    "cost": 2,
+    "tier": "low",
+    "categories": ["natural"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["earth"],
+    "material_composition": ["mineral"],
+    "physical_properties": {
+      "density": "high",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "high",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [],
+      "evolutionary_purpose": []
+    },
+    "symbolic_associations": ["strength", "endurance", "resistance"],
+    "cultural_significance": [
+      "used in architecture, monuments, and religious altars",
+      "represents stability and permanence",
+      "common metaphor for emotional stoicism"
+    ],
+    "tactical_role": ["barrier", "projectile", "weight anchor"],
+    "strengths_against": {
+      "system_word_types": ["glass", "structure", "organic"],
+      "examples": ["Window", "Wall", "Leaf"],
+      "mechanism": "Blunt force and mass shatter or suppress fragile or unarmored entities"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["acidic", "erosive", "explosive"],
+      "examples": ["Acid", "Waterflow", "Dynamite"]
+    },
+    "synergy_with": ["Earthquake", "Mountain", "Pebble"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 1.2,
+      "penalty_avoidance_score": 23,
+      "versatility_index": 13
+    },
+    "hypothetical_scenarios": [
+      "Used to block a passage",
+      "Rolled downhill as a trap or distraction"
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "used in ancient weapons (slings, hammers)",
+        "construction of temples and pyramids",
+        "tools in prehistoric times"
+      ],
+      "mythological_references": [
+        "Sisyphus condemned to roll a boulder eternally"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "to": "Boulder",
+        "cost": 4,
+        "benefits": ["area control", "path blocking"]
+      },
+      {
+        "to": "Statue",
+        "cost": 5,
+        "benefits": ["inspiration aura", "cultural utility"]
+      }
+    ]
+  }
+  ,
+  {
+    "word_id": 7,
+    "text": "Water",
+    "cost": 3,
+    "tier": "low",
+    "categories": ["elemental"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["water"],
+    "material_composition": ["H₂O"],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "none",
+      "conductivity": "medium",
+      "durability": "low",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["universal"],
+      "evolutionary_purpose": ["essential for life", "temperature regulation", "transport of nutrients"]
+    },
+    "symbolic_associations": ["life", "purity", "adaptability", "flow"],
+    "cultural_significance": [
+      "used in religious rituals (e.g., baptism)",
+      "central to myths (e.g., floods, water gods)",
+      "considered sacred in many traditions"
+    ],
+    "tactical_role": ["coolant", "extinguisher", "barrier", "eroder"],
+    "strengths_against": {
+      "system_word_types": ["fire", "dust", "chemical", "heat-based"],
+      "examples": ["Coal", "Flame", "Ash", "Acid"],
+      "mechanism": "Neutralizes or suppresses volatile, flammable or particulate-based entities"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["electric", "frozen", "absorbent"],
+      "examples": ["Wire", "Ice", "Sponge"]
+    },
+    "synergy_with": ["Ice", "Steam", "River", "Fish"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.333,
+      "penalty_avoidance_score": 22,
+      "versatility_index": 12
+    },
+    "hypothetical_scenarios": [
+      "Used to flood a narrow path and halt enemy advance",
+      "Cools overheated systems or beings",
+      "Cleanses toxins from organic units"
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "drinking and agriculture",
+        "industrial cooling and cleaning",
+        "transport via rivers and oceans"
+      ],
+      "mythological_references": [
+        "Poseidon (Greek god of the sea)",
+        "The Great Flood (various traditions)",
+        "The Fountain of Youth"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "to": "Ice",
+        "cost": 4,
+        "benefits": ["solid form", "immobilization", "sharp formations"]
+      },
+      {
+        "to": "Steam",
+        "cost": 4,
+        "benefits": ["pressure utility", "visibility reduction", "thermal interaction"]
+      },
+      {
+        "to": "Wave",
+        "cost": 5,
+        "benefits": ["mass displacement", "area denial", "momentum damage"]
+      }
+    ]
+  }
+  ,
+  {
+    "word_id": 8,
+    "text": "Twig",
+    "cost": 3,
+    "tier": "low",
+    "categories": ["natural"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["earth"],
+    "material_composition": ["wood"],
+    "physical_properties": {
+      "density": "low",
+      "flammability": "high",
+      "conductivity": "low",
+      "durability": "low",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["trees", "shrubs"],
+      "evolutionary_purpose": ["branching structure", "nutrient transport"]
+    },
+    "symbolic_associations": ["fragility", "beginning", "nature"],
+    "cultural_significance": [
+      "used in divination (e.g., dowsing rods)",
+      "associated with early fire-starting",
+      "linked to nature walks, simplicity"
+    ],
+    "tactical_role": ["starter_material", "trap_trigger", "symbolic_key"],
+    "strengths_against": {
+      "system_word_types": ["sensor", "glass", "overly-mechanical"],
+      "examples": ["Laser Tripwire", "Glass Dome"],
+      "mechanism": "Non-metallic and natural structure bypasses or disables delicate mechanisms"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["fire", "heavy", "cutting"],
+      "examples": ["Flame", "Boulder", "Axe"]
+    },
+    "synergy_with": ["Fire", "Leaf", "Nest", "Wand"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.9,
+      "penalty_avoidance_score": 22,
+      "versatility_index": 12
+    },
+    "hypothetical_scenarios": [
+      "Used to craft a primitive snare trap trigger",
+      "Essential for building temporary shelters or signals"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["kindling", "basic construction", "symbolic rituals"],
+      "mythological_references": ["used by forest spirits or as magic wands in folklore"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "to": "Branch",
+        "cost": 4,
+        "benefits": ["increased structural strength", "weapon capability"]
+      },
+      {
+        "to": "Wand",
+        "cost": 5,
+        "benefits": ["channeling energy", "magical interactions"]
+      }
+    ]
+  }
+,  
+{
+  "word_id": 9,
+  "text": "Sword",
+  "cost": 4,
+  "tier": "mid",
+  "categories": ["crafted", "weapon"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["metal"],
+  "material_composition": ["steel"],
+  "physical_properties": {
+    "density": "high",
+    "flammability": "none",
+    "conductivity": "medium",
+    "durability": "high",
+    "aerodynamic": "partially"
+  },
+  "biological_origin": {
+    "species_source": [],
+    "evolutionary_purpose": []
+  },
+  "symbolic_associations": ["justice", "war", "honor", "power"],
+  "cultural_significance": [
+    "central in medieval warfare and samurai culture",
+    "used in ceremonial knighting",
+    "featured in countless myths and epics (Excalibur, Kusanagi)"
+  ],
+  "tactical_role": ["melee_attack", "duel", "symbolic_authority"],
+  "strengths_against": {
+    "system_word_types": ["organic", "fragile", "basic_defense"],
+    "examples": ["Twig", "Paper", "Shield"],
+    "mechanism": "Clean slicing and leverage against soft or rudimentary structures"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["heavy_armor", "long_range", "magnetic"],
+    "examples": ["Boulder", "Spear", "Electromagnet"]
+  },
+  "synergy_with": ["Shield", "Armor", "Knight"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 1.2,
+    "penalty_avoidance_score": 21,
+    "versatility_index": 11
+  },
+  "hypothetical_scenarios": [
+    "Used in ceremonial duel for leadership",
+    "Last-resort melee in collapsed tech environments"
+  ],
+  "historical_precedents": {
+    "real_world_uses": [
+      "primary weapon of knights, samurai, and warriors",
+      "symbol of justice or monarchy",
+      "used in rituals of war and peace"
+    ],
+    "mythological_references": [
+      "Excalibur (Arthurian legend)",
+      "Durandal (Roland cycle)",
+      "Zulfiqar (Islamic legend)"
+    ]
+  },
+  "quantum_properties": {
+    "observer_effect": "low",
+    "entanglement_potential": "medium"
+  },
+  "upgrade_paths": [
+    {
+      "to": "Greatsword",
+      "cost": 6,
+      "benefits": ["heavy damage", "area cleave"]
+    },
+    {
+      "to": "Enchanted Sword",
+      "cost": 7,
+      "benefits": ["elemental damage", "aura effects"]
+    }
+  ]
+},{
+  "word_id": 10,
+  "text": "Shield",
+  "cost": 4,
+  "tier": "mid",
+  "categories": ["crafted", "defense"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["metal"],
+  "material_composition": ["iron", "wood", "leather"],
+  "physical_properties": {
+    "density": "high",
+    "flammability": "low",
+    "conductivity": "medium",
+    "durability": "high",
+    "aerodynamic": false
+  },
+  "biological_origin": {
+    "species_source": [],
+    "evolutionary_purpose": []
+  },
+  "symbolic_associations": ["protection", "defense", "sacrifice"],
+  "cultural_significance": [
+    "used in gladiator and medieval combat",
+    "symbol of guardianship (e.g., family crests)",
+    "appears in national emblems and superhero imagery"
+  ],
+  "tactical_role": ["defense", "blocking", "cover", "counterbalance"],
+  "strengths_against": {
+    "system_word_types": ["projectile", "melee", "kinetic"],
+    "examples": ["Arrow", "Sword", "Rock"],
+    "mechanism": "Absorbs, deflects, or redirects physical attacks"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["piercing", "explosive", "energy"],
+    "examples": ["Bullet", "Spear", "Laser"]
+  },
+  "synergy_with": ["Sword", "Armor", "Fortress"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 1.1,
+    "penalty_avoidance_score": 21,
+    "versatility_index": 11
+  },
+  "hypothetical_scenarios": [
+    "Used to protect allies while advancing",
+    "Forms mobile barrier in retreat maneuvers"
+  ],
+  "historical_precedents": {
+    "real_world_uses": [
+      "Roman scutum formations",
+      "medieval knight defense",
+      "riot control equipment"
+    ],
+    "mythological_references": [
+      "Aegis shield of Zeus and Athena"
+    ]
+  },
+  "quantum_properties": {
+    "observer_effect": "low",
+    "entanglement_potential": "low"
+  },
+  "upgrade_paths": [
+    {
+      "to": "Tower Shield",
+      "cost": 6,
+      "benefits": ["larger coverage", "group defense"]
+    },
+    {
+      "to": "Energy Shield",
+      "cost": 7,
+      "benefits": ["plasma resistance", "lightweight durability"]
+    }
+  ]
+}
+
+,
+{
+  "word_id": 11,
+  "text": "Gun",
+  "cost": 5,
+  "tier": "mid",
+  "categories": ["crafted", "weapon"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["fire"],
+  "material_composition": ["steel", "gunpowder", "plastic"],
+  "physical_properties": {
+    "density": "high",
+    "flammability": "low",
+    "conductivity": "medium",
+    "durability": "high",
+    "aerodynamic": false
+  },
+  "biological_origin": {
+    "species_source": [],
+    "evolutionary_purpose": []
+  },
+  "symbolic_associations": ["violence", "authority", "rebellion", "modernity"],
+  "cultural_significance": [
+    "widely debated in modern societies (rights, control)",
+    "common in films, games, and political discourse",
+    "symbol of revolution and self-defense"
+  ],
+  "tactical_role": ["ranged_attack", "deterrent", "fast_response"],
+  "strengths_against": {
+    "system_word_types": ["melee", "light_armor", "slow_units"],
+    "examples": ["Sword", "Paper", "Boulder"],
+    "mechanism": "High-speed projectiles bypass close-range combat limitations and lightly defended targets"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["shielding", "stealth", "reflective"],
+    "examples": ["Shield", "Smoke", "Mirror"],
+    "mechanism": "Ineffective when visibility or direct line of fire is blocked"
+  },
+  "synergy_with": ["Scope", "Ammo", "Tripod", "Drone"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 1.25,
+    "penalty_avoidance_score": 20,
+    "versatility_index": 10
+  },
+  "hypothetical_scenarios": [
+    "Used for a high-risk ambush against slower or unarmored units",
+    "Empties a corridor for tactical retreat or advancement"
+  ],
+  "historical_precedents": {
+    "real_world_uses": [
+      "military engagements since the 14th century",
+      "civilian use for defense or hunting",
+      "law enforcement and revolutionary conflicts"
+    ],
+    "mythological_references": [
+      "appears in modern mythology (e.g., Western gunslingers, cyberpunk heroes)"
+    ]
+  },
+  "quantum_properties": {
+    "observer_effect": "low",
+    "entanglement_potential": "low"
+  },
+  "upgrade_paths": [
+    {
+      "to": "Rifle",
+      "cost": 7,
+      "benefits": ["longer range", "precision", "armor penetration"]
+    },
+    {
+      "to": "Plasma Gun",
+      "cost": 8,
+      "benefits": ["elemental damage", "bypass physical armor"]
+    }
+  ]
+}
+
+,
+{
+  "word_id": 12,
+  "text": "Flame",
+  "cost": 5,
+  "tier": "mid",
+  "categories": ["elemental"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["fire"],
+  "material_composition": ["plasma", "heat", "oxygen"],
+  "physical_properties": {
+    "density": "none",
+    "flammability": "n/a",
+    "conductivity": "high (thermal)",
+    "durability": "low",
+    "aerodynamic": true
+  },
+  "biological_origin": {
+    "species_source": [],
+    "evolutionary_purpose": []
+  },
+  "symbolic_associations": ["destruction", "passion", "rebirth", "purification"],
+  "cultural_significance": [
+    "used in religious and purification rituals",
+    "central to myths of creation and destruction",
+    "represents transformation and power"
+  ],
+  "tactical_role": ["area_damage", "zone_denial", "purge"],
+  "strengths_against": {
+    "system_word_types": ["organic", "flammable", "cold"],
+    "examples": ["Leaf", "Paper", "Ice"],
+    "mechanism": "Burns, melts, or weakens physical materials through heat"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["liquid", "vacuum", "noncombustible"],
+    "examples": ["Water", "Void", "Stone"],
+    "mechanism": "Can be smothered, suppressed, or rendered ineffective in the absence of fuel"
+  },
+  "synergy_with": ["Coal", "Spark", "Air", "Oil"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 1.3,
+    "penalty_avoidance_score": 20,
+    "versatility_index": 10
+  },
+  "hypothetical_scenarios": [
+    "Creates a wall of fire to block movement",
+    "Ignites surrounding terrain for environmental damage",
+    "Used to purge infestation or spread panic"
+  ],
+  "historical_precedents": {
+    "real_world_uses": [
+      "torches, fire pits, warfare (flamethrowers)",
+      "controlled burns in agriculture and forestry",
+      "early human tool and defense"
+    ],
+    "mythological_references": [
+      "Prometheus stealing fire for humanity",
+      "Phoenix rebirth from flame",
+      "Shiva’s dance of destruction (Nataraja)"
+    ]
+  },
+  "quantum_properties": {
+    "observer_effect": "high",
+    "entanglement_potential": "none"
+  },
+  "upgrade_paths": [
+    {
+      "to": "Inferno",
+      "cost": 7,
+      "benefits": ["wide-area destruction", "status effects like panic or blindness"]
+    },
+    {
+      "to": "Living Flame",
+      "cost": 8,
+      "benefits": ["self-propagating", "targets actively", "elemental AI"]
+    }
+  ]
+}
+,
+{
+  "word_id": 13,
+  "text": "Rope",
+  "cost": 5,
+  "tier": "mid",
+  "categories": ["crafted", "tool"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["earth"],
+  "material_composition": ["hemp", "cotton", "synthetic_fiber"],
+  "physical_properties": {
+    "density": "medium",
+    "flammability": "high",
+    "conductivity": "low",
+    "durability": "medium",
+    "aerodynamic": false
+  },
+  "biological_origin": {
+    "species_source": ["plant_fiber"],
+    "evolutionary_purpose": []
+  },
+  "symbolic_associations": ["connection", "binding", "constraint", "rescue"],
+  "cultural_significance": [
+    "essential in maritime, climbing, and survival cultures",
+    "symbol of execution and justice (e.g., noose)",
+    "used in religious and theatrical rituals (e.g., symbolic knots)"
+  ],
+  "tactical_role": ["binding", "trapping", "escape", "support_structure"],
+  "strengths_against": {
+    "system_word_types": ["mobile", "fragile", "unarmored"],
+    "examples": ["Feather", "Twig", "Drone"],
+    "mechanism": "Restrains or impedes mobility, especially effective against unprepared or lightweight targets"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["fire", "blade", "acidic"],
+    "examples": ["Flame", "Sword", "Acid"],
+    "mechanism": "Can be easily severed or degraded by cutting, burning, or chemical means"
+  },
+  "synergy_with": ["Hook", "Tree", "Pulley", "Climb"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 1.1,
+    "penalty_avoidance_score": 20,
+    "versatility_index": 10
+  },
+  "hypothetical_scenarios": [
+    "Used to rappel down dangerous terrain",
+    "Tied into snares for ambushes",
+    "Forms temporary bridge or barrier"
+  ],
+  "historical_precedents": {
+    "real_world_uses": [
+      "used in construction, agriculture, sailing, climbing, rescue",
+      "symbolic tool in religious and execution contexts",
+      "vital in military logistics (e.g., bridge-making, rigging)"
+    ],
+    "mythological_references": [
+      "Ariadne’s thread guiding Theseus through the Labyrinth",
+      "karmic binding ropes in Hindu mythology"
+    ]
+  },
+  "quantum_properties": {
+    "observer_effect": "low",
+    "entanglement_potential": "medium"
+  },
+  "upgrade_paths": [
+    {
+      "to": "Chain",
+      "cost": 6,
+      "benefits": ["higher durability", "metallic interactions", "resistance to cutting"]
+    },
+    {
+      "to": "Grapple Line",
+      "cost": 7,
+      "benefits": ["launchable utility", "vertical access", "combat positioning"]
+    }
+  ]
+}
+,
+{
+  "word_id": 14,
+  "text": "Disease",
+  "cost": 6,
+  "tier": "mid",
+  "categories": ["biological", "conceptual"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["decay"],
+  "material_composition": ["pathogens", "viruses", "bacteria"],
+  "physical_properties": {
+    "density": "n/a",
+    "flammability": "none",
+    "conductivity": "none",
+    "durability": "n/a",
+    "aerodynamic": "airborne_capable"
+  },
+  "biological_origin": {
+    "species_source": ["microorganisms", "mutations"],
+    "evolutionary_purpose": ["replication", "population control"]
+  },
+  "symbolic_associations": ["death", "weakness", "inevitability", "corruption"],
+  "cultural_significance": [
+    "central in apocalyptic and religious narratives",
+    "used metaphorically for moral decay or systemic failure",
+    "historically tied to fear, quarantine, and plague imagery"
+  ],
+  "tactical_role": ["attrition", "debuff", "area_control", "panic"],
+  "strengths_against": {
+    "system_word_types": ["organic", "crowded", "fragile"],
+    "examples": ["Leaf", "Army", "Host"],
+    "mechanism": "Spreads rapidly, weakening multiple organic targets over time"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["synthetic", "sealed", "immune"],
+    "examples": ["Robot", "Armor", "Cure"],
+    "mechanism": "Cannot infect or affect non-biological or isolated systems"
+  },
+  "synergy_with": ["Rat", "Swamp", "Decay", "Fog"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 1.0,
+    "penalty_avoidance_score": 19,
+    "versatility_index": 9
+  },
+  "hypothetical_scenarios": [
+    "Introduced into enemy ranks to create delayed chaos",
+    "Combined with fog or water for environmental spread",
+    "Used to disrupt stable biological systems like farms or colonies"
+  ],
+  "historical_precedents": {
+    "real_world_uses": [
+      "biological warfare (e.g., infected corpses in sieges)",
+      "global pandemics (e.g., Black Death, Spanish Flu, COVID-19)"
+    ],
+    "mythological_references": [
+      "plagues sent by gods in ancient mythologies",
+      "the Fourth Horseman of the Apocalypse (Pestilence)"
+    ]
+  },
+  "quantum_properties": {
+    "observer_effect": "low",
+    "entanglement_potential": "none"
+  },
+  "upgrade_paths": [
+    {
+      "to": "Plague",
+      "cost": 8,
+      "benefits": ["mass spread", "lethality", "immune suppression"]
+    },
+    {
+      "to": "Mutant Strain",
+      "cost": 9,
+      "benefits": ["resilience to cures", "adaptive infection", "synergy with tech"]
+    }
+  ]
+}
+ ,{
+  "word_id": 15,
+  "text": "Cure",
+  "cost": 6,
+  "tier": "mid",
+  "categories": [
+    "elemental"
+  ],
+  "subcategories": [
+    "basic_unit"
+  ],
+  "elemental_affinity": [
+    "neutral"
+  ],
+  "material_composition": [
+    "generic"
+  ],
+  "physical_properties": {
+    "density": "variable",
+    "flammability": "medium",
+    "conductivity": "variable",
+    "durability": "medium",
+    "aerodynamic": false
+  },
+  "biological_origin": {
+    "species_source": ["human"],
+    "evolutionary_purpose": ["disease mitigation", "homeostasis restoration"]
+  },
+  "symbolic_associations": ["healing", "hope", "restoration"],
+  "cultural_significance": ["universally positive", "associated with medicine", "used metaphorically in speeches and literature"],
+  "tactical_role": ["support", "counter-debuff", "recovery"],
+  "strengths_against": {
+    "system_word_types": ["affliction", "corruption", "decay"],
+    "examples": ["Plague", "Poison", "Curse"],
+    "mechanism": "Neutralizes harmful effects, restores status or functionality"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["overwhelm", "mutation", "instant_kill"],
+    "examples": ["Annihilate", "Mutate", "Overload"]
+  },
+  "synergy_with": ["Shield", "Sanctuary", "Hope", "Balance"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 0.167,
+    "penalty_avoidance_score": 19,
+    "versatility_index": 9
+  },
+  "hypothetical_scenarios": [
+    "Used to reverse status ailments inflicted by 'Plague' or 'Decay'",
+    "Can be amplified by combining with 'Hope' or 'Prayer'",
+    "Ineffective against structural damage-type effects like 'Collapse'"
+  ],
+  "historical_precedents": {
+    "real_world_uses": ["antibiotics", "vaccination", "folk remedies"],
+    "mythological_references": ["Panacea (Greek goddess of universal remedy)", "Ambrosia (divine healing food)"]
+  },
+  "quantum_properties": {
+    "observer_effect": "none",
+    "entanglement_potential": "low"
+  },
+  "upgrade_paths": [
+    {
+      "upgrade_to": "Panacea",
+      "requirements": ["combined with 'Herb' and 'Prayer'", "minimum cost threshold: 9"]
+    },
+    {
+      "upgrade_to": "Regeneration",
+      "requirements": ["synergy event with 'Time'", "versatility index ≥ 10"]
+    }
+  ]
+}  ,{
+  "word_id": 16,
+  "text": "Bacteria",
+  "cost": 6,
+  "tier": "mid",
+  "categories": [
+    "elemental"
+  ],
+  "subcategories": [
+    "basic_unit"
+  ],
+  "elemental_affinity": [
+    "neutral"
+  ],
+  "material_composition": [
+    "generic"
+  ],
+  "physical_properties": {
+    "density": "variable",
+    "flammability": "medium",
+    "conductivity": "variable",
+    "durability": "medium",
+    "aerodynamic": false
+  },
+  "biological_origin": {
+    "species_source": ["prokaryotic organisms"],
+    "evolutionary_purpose": ["decomposition", "symbiosis", "pathogenesis"]
+  },
+  "symbolic_associations": ["decay", "infection", "adaptation", "persistence"],
+  "cultural_significance": ["feared as disease agents", "used in fermentation", "represented in germ theory revolution"],
+  "tactical_role": ["corruption", "debuff", "creeping threat"],
+  "strengths_against": {
+    "system_word_types": ["organic", "structure", "purity"],
+    "examples": ["Flesh", "Order", "Sanctuary"],
+    "mechanism": "Slowly undermines or infects organic-based or order-aligned units"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["cleansing", "antibiotic", "fire"],
+    "examples": ["Cure", "Sterilize", "Flame"]
+  },
+  "synergy_with": ["Rot", "Swarm", "Mutation", "Contagion"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 0.167,
+    "penalty_avoidance_score": 19,
+    "versatility_index": 9
+  },
+  "hypothetical_scenarios": [
+    "Can replicate and spread across organic units unless countered by 'Cure' or 'Antibiotic'",
+    "Effective in long-term control zones",
+    "Weak in high-temperature or sterile environments"
+  ],
+  "historical_precedents": {
+    "real_world_uses": ["antibiotic production", "fermentation", "bioremediation"],
+    "mythological_references": ["symbolic agents of pestilence in folklore"]
+  },
+  "quantum_properties": {
+    "observer_effect": "none",
+    "entanglement_potential": "low"
+  },
+  "upgrade_paths": [
+    {
+      "upgrade_to": "Superbug",
+      "requirements": ["survives three cleansing attempts", "combined with 'Mutation'"]
+    },
+    {
+      "upgrade_to": "Plague",
+      "requirements": ["synergy with 'Swarm'", "used in two successive contamination plays"]
+    }
+  ]
+}
+
+  ,{
+    "word_id": 17,
+    "text": "Shadow",
+    "cost": 7,
+    "tier": "mid",
+    "categories": [
+      "elemental"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "dark"
+    ],
+    "material_composition": [
+      "generic",
+      "intangible"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "medium",
+      "conductivity": "variable",
+      "durability": "medium",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["none (non-biological)"],
+      "evolutionary_purpose": ["passive consequence of light obstruction"]
+    },
+    "symbolic_associations": ["mystery", "fear", "hidden truth", "subconscious"],
+    "cultural_significance": ["often linked to death, secrecy, and the unknown", "represented in mythology as alter-ego or soul double", "used in stealth metaphors"],
+    "tactical_role": ["stealth", "deception", "evasion"],
+    "strengths_against": {
+      "system_word_types": ["light-bound", "order", "direct"],
+      "examples": ["Flare", "Beacon", "Truth"],
+      "mechanism": "Avoids direct detection or weakens opponents dependent on illumination or clarity"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["illumination", "area_reveal", "purification"],
+      "examples": ["Light", "Radiance", "Expose"]
+    },
+    "synergy_with": ["Silence", "Fog", "Mirror", "Whisper"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.143,
+      "penalty_avoidance_score": 18,
+      "versatility_index": 8
+    },
+    "hypothetical_scenarios": [
+      "Can bypass visibility-based defenses",
+      "Resistant to physical damage but vulnerable when exposed to 'Reveal'",
+      "Effective in ambush sequences or as a second-wave unit"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["used metaphorically in art, psychology, and strategy (e.g. 'shadow diplomacy')"],
+      "mythological_references": ["Peter Pan's detached shadow", "the Egyptian 'ka' as a shadow self", "Carl Jung's concept of the Shadow archetype"]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Phantom",
+        "requirements": ["combined with 'Fear'", "used successfully in stealth 2+ times"]
+      },
+      {
+        "upgrade_to": "Void",
+        "requirements": ["absorbs a 'Light' unit", "triggered during lunar phase event"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 18,
+    "text": "Light",
+    "cost": 7,
+    "tier": "mid",
+    "categories": [
+      "elemental"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "radiant"
+    ],
+    "material_composition": [
+      "generic",
+      "intangible"
+    ],
+    "physical_properties": {
+      "density": "none",
+      "flammability": "none",
+      "conductivity": "high",
+      "durability": "situational",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["stars", "bioluminescent organisms"],
+      "evolutionary_purpose": ["navigation", "photosynthesis", "predator deterrence"]
+    },
+    "symbolic_associations": ["clarity", "truth", "hope", "life", "good"],
+    "cultural_significance": ["central to spiritual and religious rituals", "symbol of enlightenment and purity", "used in storytelling as a force of good"],
+    "tactical_role": ["reveal", "cleanse", "buff", "area control"],
+    "strengths_against": {
+      "system_word_types": ["dark", "illusion", "stealth"],
+      "examples": ["Shadow", "Fog", "Obscure"],
+      "mechanism": "Dispels concealment and weakens entities relying on darkness or illusion"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["reflection", "absorption", "chaos"],
+      "examples": ["Mirror", "Void", "Fracture"]
+    },
+    "synergy_with": ["Truth", "Sanctuary", "Flare", "Hope"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.143,
+      "penalty_avoidance_score": 18,
+      "versatility_index": 8
+    },
+    "hypothetical_scenarios": [
+      "Can purge negative effects caused by 'Shadow' or 'Corruption'",
+      "Temporarily disables stealth-based units in the area",
+      "Grants a temporary visibility boost to adjacent allies"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["phototherapy", "solar energy", "optical communication"],
+      "mythological_references": ["Helios (Greek sun god)", "Amaterasu (Japanese goddess of the sun)", "Lucifer (bringer of light)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "high",
+      "entanglement_potential": "moderate"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Radiance",
+        "requirements": ["synergy with 'Hope'", "used consecutively for 2 turns"]
+      },
+      {
+        "upgrade_to": "Beacon",
+        "requirements": ["activated near ally units", "cumulative clarity score ≥ 15"]
+      }
+    ]
+  }
+  
+  ,{
+    "word_id": 19,
+    "text": "Virus",
+    "cost": 7,
+    "tier": "mid",
+    "categories": [
+      "elemental"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "chaos"
+    ],
+    "material_composition": [
+      "generic",
+      "biological",
+      "digital"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "medium",
+      "conductivity": "variable",
+      "durability": "medium",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["viral agents", "synthetic code"],
+      "evolutionary_purpose": ["replication via host exploitation", "disruption of systems"]
+    },
+    "symbolic_associations": ["corruption", "contagion", "mutation", "subversion"],
+    "cultural_significance": ["central in modern pandemics", "used metaphorically in tech and social theory", "symbol of invisible threat"],
+    "tactical_role": ["debuff", "infiltration", "replication", "system disruption"],
+    "strengths_against": {
+      "system_word_types": ["organic", "networked", "stable"],
+      "examples": ["Flesh", "Sanctuary", "Order"],
+      "mechanism": "Infects or corrupts interconnected systems, spreads unless cleansed"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["immunity", "cleansing", "fire"],
+      "examples": ["Cure", "Firewall", "Sterilize"]
+    },
+    "synergy_with": ["Mutation", "Swarm", "Glitch", "Fear"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.143,
+      "penalty_avoidance_score": 18,
+      "versatility_index": 8
+    },
+    "hypothetical_scenarios": [
+      "Can overwrite or disable weaker units over time",
+      "Replicates into nearby organic or digital units if not contained",
+      "Effective in area denial or delayed threat plays"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["phage therapy", "biological warfare", "computer viruses for sabotage"],
+      "mythological_references": ["personifications of pestilence in various mythologies"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "moderate"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Pandemic",
+        "requirements": ["affects 3 or more enemy units", "spreads without interruption"]
+      },
+      {
+        "upgrade_to": "AI Worm",
+        "requirements": ["used in a digital domain", "synergy with 'Glitch' or 'Code'"]
+      }
+    ]
+  }
+  
+  ,{
+    "word_id": 20,
+    "text": "Sound",
+    "cost": 8,
+    "tier": "mid",
+    "categories": [
+      "elemental"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "vibrational"
+    ],
+    "material_composition": [
+      "generic",
+      "intangible"
+    ],
+    "physical_properties": {
+      "density": "variable (dependent on medium)",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "transient",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["animals", "humans", "machines"],
+      "evolutionary_purpose": ["communication", "mating calls", "warnings", "navigation (echolocation)"]
+    },
+    "symbolic_associations": ["communication", "influence", "emotion", "truth", "vibration"],
+    "cultural_significance": ["central to music, language, and ritual", "used in chants and mantras", "a symbol of expression and freedom"],
+    "tactical_role": ["area disruption", "communication boost", "buff/debuff trigger", "barrier bypass (via resonance)"],
+    "strengths_against": {
+      "system_word_types": ["silence", "structure", "concentration"],
+      "examples": ["Silence", "Wall", "Focus"],
+      "mechanism": "Disrupts focused states, penetrates barriers through resonance or volume"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["void", "absorption", "control"],
+      "examples": ["Vacuum", "Mute", "Contain"],
+      "mechanism": "Requires medium to propagate, and can be nullified by sound-dampening effects"
+    },
+    "synergy_with": ["Echo", "Vibration", "Voice", "Pulse"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.125,
+      "penalty_avoidance_score": 17,
+      "versatility_index": 7
+    },
+    "hypothetical_scenarios": [
+      "Can be used to reveal stealth units via echolocation",
+      "Breaks magical or mental concentration-based spells",
+      "Can trigger chained effects in vibration-based or harmony-aligned units"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["sonar navigation", "acoustic weapons", "musical therapy"],
+      "mythological_references": ["Orpheus taming the underworld with music", "primordial sound 'Om' in Hindu cosmology"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "medium (in wave-resonant systems)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Resonance",
+        "requirements": ["synergy with 'Echo' or 'Frequency'", "used on a structure-based unit"]
+      },
+      {
+        "upgrade_to": "Voice",
+        "requirements": ["paired with 'Will' or 'Emotion'", "used in a communication role"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 21,
+    "text": "Time",
+    "cost": 8,
+    "tier": "mid",
+    "categories": [
+      "elemental",
+      "abstract"
+    ],
+    "subcategories": [
+      "basic_unit",
+      "fundamental_force"
+    ],
+    "elemental_affinity": [
+      "neutral"
+    ],
+    "material_composition": [
+      "intangible",
+      "generic"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "none",
+      "conductivity": "variable",
+      "durability": "infinite",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [
+        "universal"
+      ],
+      "evolutionary_purpose": [
+        "progression",
+        "aging",
+        "change facilitation"
+      ]
+    },
+    "symbolic_associations": [
+      "fate",
+      "destiny",
+      "inevitability",
+      "growth"
+    ],
+    "cultural_significance": [
+      "central to philosophy",
+      "basis for calendars",
+      "core of many mythologies"
+    ],
+    "tactical_role": [
+      "control",
+      "prediction",
+      "time dilation",
+      "strategic delay"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "static",
+        "rigid"
+      ],
+      "examples": [
+        "stone",
+        "fortress",
+        "unchanging"
+      ],
+      "mechanism": "Causes erosion, decay, and eventual failure of static elements over time."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "void",
+        "eternal"
+      ],
+      "examples": [
+        "entropy",
+        "timeless",
+        "infinity"
+      ]
+    },
+    "synergy_with": [
+      "space",
+      "entropy",
+      "knowledge",
+      "speed"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.125,
+      "penalty_avoidance_score": 17,
+      "versatility_index": 9
+    },
+    "hypothetical_scenarios": [
+      "Accelerating time could allow instant growth or decay.",
+      "Rewinding time could undo mistakes or prevent attacks."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "timekeeping",
+        "navigation",
+        "scientific measurements"
+      ],
+      "mythological_references": [
+        "Chronos (Greek god of time)",
+        "Kala (Hindu god of time and destruction)",
+        "Father Time (Western allegory)"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      "Time Acceleration",
+      "Time Reversal",
+      "Time Loop",
+      "Chrono Stasis"
+    ]
+}
+  ,
+  {
+    "word_id": 22,
+    "text": "Fate",
+    "cost": 8,
+    "tier": "mid",
+    "categories": [
+      "elemental"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "cosmic"
+    ],
+    "material_composition": [
+      "generic",
+      "metaphysical"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "high (conceptual)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["mythological constructs", "collective consciousness"],
+      "evolutionary_purpose": ["psychological framing", "narrative coherence"]
+    },
+    "symbolic_associations": ["destiny", "inevitability", "threads", "control", "time"],
+    "cultural_significance": ["central in mythologies and religions", "used in moral tales and epic poetry", "symbol of the inescapable"],
+    "tactical_role": ["control", "long-term setup", "trigger manipulation"],
+    "strengths_against": {
+      "system_word_types": ["random", "chaotic", "impulse"],
+      "examples": ["Chaos", "Whim", "Instinct"],
+      "mechanism": "Overrides unpredictable effects by enforcing predetermined outcomes"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["freedom", "chance", "disruption"],
+      "examples": ["Choice", "Entropy", "Glitch"],
+      "mechanism": "Vulnerable to entities that reject or subvert linear causality"
+    },
+    "synergy_with": ["Thread", "Time", "Oracle", "Destiny"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.125,
+      "penalty_avoidance_score": 17,
+      "versatility_index": 7
+    },
+    "hypothetical_scenarios": [
+      "Can force a delayed action to succeed regardless of interference",
+      "Useful in prediction-based strategies or controlling opponent initiative",
+      "Combines well with timing-based units to lock in outcomes"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["used in philosophy and theology", "basis for divination and ritual"],
+      "mythological_references": ["The Moirai (Greek Fates)", "Norns (Norse destiny weavers)", "Shai (Egyptian personification of destiny)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "high (perceived fate shapes interaction)",
+      "entanglement_potential": "high (linked outcomes across units)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Destiny",
+        "requirements": ["linked to at least two allied units", "activated after 3 rounds of setup"]
+      },
+      {
+        "upgrade_to": "Weaver",
+        "requirements": ["synergy with 'Thread' or 'Time'", "used in response to a disruption event"]
+      }
+    ]
+  } 
+  ,
+  {
+    "word_id": 23,
+    "text": "Earthquake",
+    "cost": 9,
+    "tier": "mid",
+    "categories": [
+      "elemental"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "earth"
+    ],
+    "material_composition": [
+      "generic",
+      "geological"
+    ],
+    "physical_properties": {
+      "density": "very high",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "destructive",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["tectonic plates"],
+      "evolutionary_purpose": ["planetary regulation", "ecosystem reshaping"]
+    },
+    "symbolic_associations": ["chaos", "wrath", "upheaval", "change", "foundation"],
+    "cultural_significance": ["featured in mythologies as divine punishment", "symbol of sudden change", "inspired architectural advancements"],
+    "tactical_role": ["area disruption", "structure destruction", "terrain manipulation"],
+    "strengths_against": {
+      "system_word_types": ["structure", "static", "order"],
+      "examples": ["Wall", "Fortress", "Balance"],
+      "mechanism": "Shatters rigid formations and collapses heavily fortified units"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["aerial", "fluid", "chaos"],
+      "examples": ["Storm", "Mist", "Flight"],
+      "mechanism": "Ineffective against non-grounded or highly mobile entities"
+    },
+    "synergy_with": ["Rift", "Aftershock", "Collapse", "Stone"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.111,
+      "penalty_avoidance_score": 16,
+      "versatility_index": 6
+    },
+    "hypothetical_scenarios": [
+      "Can disable all grounded units in a target area for 1 turn",
+      "Destroys terrain-dependent buffs",
+      "Triggers 'Aftershock' when used in combination with other seismic or geological effects"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["modeled in simulations for structural resilience", "studied in disaster mitigation"],
+      "mythological_references": ["Poseidon (Greek god of earthquakes)", "Namazu (Japanese earthquake catfish spirit)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Cataclysm",
+        "requirements": ["used in two consecutive turns", "combined with 'Collapse' or 'Ruin'"]
+      },
+      {
+        "upgrade_to": "Tectonic Fury",
+        "requirements": ["triggered when opposing units are fortified", "paired with 'Wrath' or 'Stone'"]
+      }
+    ]
+  }
+  ,
+  {
+    "word_id": 24,
+    "text": "Storm",
+    "cost": 9,
+    "tier": "mid",
+    "categories": [
+      "elemental"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "air",
+      "water",
+      "chaos"
+    ],
+    "material_composition": [
+      "generic",
+      "atmospheric"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "none",
+      "conductivity": "high (due to lightning)",
+      "durability": "volatile",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["n/a (natural phenomenon)"],
+      "evolutionary_purpose": ["planetary regulation", "atmospheric balancing"]
+    },
+    "symbolic_associations": ["turmoil", "change", "anger", "cleansing", "power"],
+    "cultural_significance": ["seen as a sign of divine wrath or power", "used in literature to mark conflict or transformation", "featured in rituals of renewal"],
+    "tactical_role": ["area damage", "status disruption", "multi-element pressure"],
+    "strengths_against": {
+      "system_word_types": ["static", "fire", "order"],
+      "examples": ["Flame", "Fortress", "Silence"],
+      "mechanism": "Overwhelms and destabilizes with wind, rain, and lightning effects"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["grounded", "absorption", "void"],
+      "examples": ["Earth", "Stillness", "Vacuum"],
+      "mechanism": "Storms lose force against grounded or nullifying forces"
+    },
+    "synergy_with": ["Lightning", "Flood", "Tempest", "Chaos"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.111,
+      "penalty_avoidance_score": 16,
+      "versatility_index": 6
+    },
+    "hypothetical_scenarios": [
+      "Can disable visibility or precision-based units",
+      "Applies multi-turn status effects like 'Drenched' or 'Disoriented'",
+      "Combines with 'Lightning' to deal bonus elemental damage"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["weather manipulation experiments", "strategic considerations in warfare (e.g. D-Day postponement)"],
+      "mythological_references": ["Thor (Norse god of thunder)", "Raijin (Japanese storm deity)", "Indra (Hindu storm god)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "medium (inter-element feedback)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Tempest",
+        "requirements": ["used in conjunction with 'Lightning' and 'Rain'", "triggered during multi-turn activation"]
+      },
+      {
+        "upgrade_to": "Eye of the Storm",
+        "requirements": ["maintains presence for 3+ turns", "combined with 'Control' or 'Focus'"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 25,
+    "text": "Vaccine",
+    "cost": 9,
+    "tier": "mid",
+    "categories": [
+      "elemental"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "biological",
+      "resistance"
+    ],
+    "material_composition": [
+      "generic",
+      "biological"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "low",
+      "conductivity": "low",
+      "durability": "high (in effects)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["human", "synthetic biology"],
+      "evolutionary_purpose": ["induced immunity", "pathogen memory", "adaptive protection"]
+    },
+    "symbolic_associations": ["prevention", "resilience", "protection", "preparation"],
+    "cultural_significance": ["key symbol of modern medicine", "politically and socially significant", "represents collective health"],
+    "tactical_role": ["buff", "protection", "status immunity", "anti-debuff"],
+    "strengths_against": {
+      "system_word_types": ["infection", "plague", "virus"],
+      "examples": ["Virus", "Bacteria", "Contagion"],
+      "mechanism": "Grants long-term immunity to allied units and nullifies future infection attempts"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["mutation", "overwhelm", "disinformation"],
+      "examples": ["Mutate", "Swarm", "Glitch"],
+      "mechanism": "Less effective if enemy evolves faster or bypasses memory-based defense"
+    },
+    "synergy_with": ["Cure", "Antibody", "Shield", "Hope"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.111,
+      "penalty_avoidance_score": 16,
+      "versatility_index": 6
+    },
+    "hypothetical_scenarios": [
+      "Can preemptively grant status immunity to allies within range",
+      "Negates effects from 'Virus' or 'Plague' played within 2 turns",
+      "Can boost 'Cure' to make it an AoE cleanse"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["eradication of smallpox", "control of pandemics", "foundation of public health"],
+      "mythological_references": ["not directly mythological, but aligns with divine protection or alchemical elixirs"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "medium (due to memory linkage across units)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Immunity Network",
+        "requirements": ["affects 3+ unique allies", "synergy with 'Antibody' or 'Cure'"]
+      },
+      {
+        "upgrade_to": "Adaptive Serum",
+        "requirements": ["used against a mutating threat", "applied post-infection"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 26,
+    "text": "Logic",
+    "cost": 10,
+    "tier": "mid",
+    "categories": [
+      "synthetic"
+    ],
+    "subcategories": [
+      "basic_unit"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "order"
+    ],
+    "material_composition": [
+      "generic",
+      "conceptual"
+    ],
+    "physical_properties": {
+      "density": "none",
+      "flammability": "none",
+      "conductivity": "high (in digital systems)",
+      "durability": "high (conceptually resilient)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["human cognition", "machine reasoning"],
+      "evolutionary_purpose": ["pattern recognition", "decision optimization", "error correction"]
+    },
+    "symbolic_associations": ["reason", "clarity", "structure", "truth", "mathematics"],
+    "cultural_significance": ["foundation of philosophy and science", "drives computer science and AI", "emblem of objectivity"],
+    "tactical_role": ["counter-chaos", "decision aid", "error reduction", "rule enforcement"],
+    "strengths_against": {
+      "system_word_types": ["chaos", "emotion", "illusion"],
+      "examples": ["Whim", "Fear", "Paradox"],
+      "mechanism": "Neutralizes irrational or contradictory effects; boosts system stability"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["ambiguity", "creativity", "instinct"],
+      "examples": ["Dream", "Inspiration", "Impulse"],
+      "mechanism": "Struggles to predict or adapt to non-linear or abstract reasoning"
+    },
+    "synergy_with": ["Order", "Code", "Structure", "Calculation"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.1,
+      "penalty_avoidance_score": 15,
+      "versatility_index": 5
+    },
+    "hypothetical_scenarios": [
+      "Can clarify or dispel any ambiguous game state or contradictory status",
+      "When paired with 'Code', improves computational actions by 25%",
+      "Weak in environments driven by emotion, instinct, or randomness"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["formal logic in mathematics", "boolean algebra in computing", "deductive reasoning in law and science"],
+      "mythological_references": ["associated indirectly with deities of wisdom like Athena (Greek) or Thoth (Egyptian)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "medium (perception influences interpretation of logical form)",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Algorithm",
+        "requirements": ["combined with 'Code'", "used to resolve 2+ contradictions"]
+      },
+      {
+        "upgrade_to": "Pure Reason",
+        "requirements": ["synergy with 'Truth' or 'Knowledge'", "not disrupted for 3 turns"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 27,
+    "text": "Gravity",
+    "cost": 10,
+    "tier": "mid",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "mass", "space"],
+    "material_composition": ["generic", "cosmic"],
+    "physical_properties": {
+      "density": "very high",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "extreme",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["n/a (fundamental force)"],
+      "evolutionary_purpose": ["enables structure formation", "governs celestial dynamics"]
+    },
+    "symbolic_associations": ["inevitability", "attraction", "burden", "foundation"],
+    "cultural_significance": ["used metaphorically for seriousness and centrality", "a core theme in physics and cosmology"],
+    "tactical_role": ["area control", "unit suppression", "grounding"],
+    "strengths_against": {
+      "system_word_types": ["aerial", "dispersed", "chaotic"],
+      "examples": ["Flight", "Fog", "Storm"],
+      "mechanism": "Anchors or slows down lightweight, fast-moving, or unstable entities"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["void", "anti-force", "quantum"],
+      "examples": ["Vacuum", "Repel", "Quantum Leap"],
+      "mechanism": "Ineffective in force-null zones or when facing spacetime anomalies"
+    },
+    "synergy_with": ["Mass", "Collapse", "Orbit", "Time"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.1,
+      "penalty_avoidance_score": 15,
+      "versatility_index": 5
+    },
+    "hypothetical_scenarios": [
+      "Forces flying units to land for 1–2 turns",
+      "Creates a 'gravitational well' that slows all movement in a zone",
+      "Can neutralize units based on their weight rating"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["orbital mechanics", "space travel", "engineering constraints"],
+      "mythological_references": ["symbolically linked to earth-binding forces and divine laws (e.g., Gaia, Ananke)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Singularity",
+        "requirements": ["combined with 'Mass' or 'Collapse'", "used on 3+ units simultaneously"]
+      },
+      {
+        "upgrade_to": "Graviton Pulse",
+        "requirements": ["paired with 'Quantum' or 'Time'", "target survives 2+ turns"]
+      }
+    ]
+  }
+,  
+{
+  "word_id": 28,
+  "text": "Robots",
+  "cost": 10,
+  "tier": "mid",
+  "categories": ["synthetic"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["neutral", "machine"],
+  "material_composition": ["generic", "metallic", "digital"],
+  "physical_properties": {
+    "density": "high",
+    "flammability": "low",
+    "conductivity": "high",
+    "durability": "high",
+    "aerodynamic": false
+  },
+  "biological_origin": {
+    "species_source": ["human design"],
+    "evolutionary_purpose": ["automation", "task replication", "precision"]
+  },
+  "symbolic_associations": ["efficiency", "obedience", "post-humanism", "artificial life"],
+  "cultural_significance": ["central to sci-fi, automation debates, and future-of-work discussions"],
+  "tactical_role": ["multipurpose", "precision strike", "replication", "resilience"],
+  "strengths_against": {
+    "system_word_types": ["organic", "emotion", "chaos"],
+    "examples": ["Flesh", "Fear", "Instinct"],
+    "mechanism": "Ignores emotional effects, resists corruption, acts with efficiency"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["EMP", "hacking", "creativity"],
+    "examples": ["Glitch", "Pulse", "Inspiration"],
+    "mechanism": "Vulnerable to digital disruption and unpredictable patterns"
+  },
+  "synergy_with": ["Code", "Logic", "Metal", "Replication"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 0.1,
+    "penalty_avoidance_score": 15,
+    "versatility_index": 5
+  },
+  "hypothetical_scenarios": [
+    "Can replicate themselves if left undisturbed for 2 turns",
+    "Immune to morale-based debuffs",
+    "Pairs well with 'Logic' for enhanced coordination"
+  ],
+  "historical_precedents": {
+    "real_world_uses": ["industrial automation", "exploration", "combat drones"],
+    "mythological_references": ["Talos (bronze automaton from Greek myth)", "Golem (programmable clay servant)"]
+  },
+  "quantum_properties": {
+    "observer_effect": "none",
+    "entanglement_potential": "medium (network-based behaviors)"
+  },
+  "upgrade_paths": [
+    {
+      "upgrade_to": "AI Swarm",
+      "requirements": ["replicates once", "paired with 'Network' or 'Code'"]
+    },
+    {
+      "upgrade_to": "Autonomous Construct",
+      "requirements": ["survives 3+ turns", "disconnected from human commands"]
+    }
+  ]
+}
+
+  ,
+  {
+    "word_id": 29,
+    "text": "Stone",
+    "cost": 11,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "earth"],
+    "material_composition": ["generic", "geological"],
+    "physical_properties": {
+      "density": "high",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "very high",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["n/a (non-biological)"],
+      "evolutionary_purpose": ["structural stability", "ecosystem substrate"]
+    },
+    "symbolic_associations": ["endurance", "memory", "burden", "strength", "obstinance"],
+    "cultural_significance": ["used in monuments, graves, temples", "symbol of permanence and resistance", "central in many origin myths"],
+    "tactical_role": ["defense", "anchor", "status resistance", "terrain influence"],
+    "strengths_against": {
+      "system_word_types": ["wind", "fragile", "disruption"],
+      "examples": ["Storm", "Glass", "Echo"],
+      "mechanism": "Immune to displacement and resists cumulative status effects"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["erosion", "vibration", "precision"],
+      "examples": ["Water", "Sound", "Crack"],
+      "mechanism": "Slow to react and vulnerable to persistent or precision-based breakdowns"
+    },
+    "synergy_with": ["Earthquake", "Wall", "Weight", "Grave"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.091,
+      "penalty_avoidance_score": 14,
+      "versatility_index": 4
+    },
+    "hypothetical_scenarios": [
+      "Can serve as a sacrificial anchor unit to absorb status effects",
+      "Reduces terrain manipulation in adjacent zones",
+      "If used with 'Earthquake', creates cascading terrain collapse"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["construction, tools, weaponry, memory markers"],
+      "mythological_references": ["Sisyphus' stone (Greek)", "Stone of Destiny (Celtic)", "foundation stones in many creation myths"]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "very low"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Obelisk",
+        "requirements": ["remains on field for 3+ turns", "synergy with 'Memory' or 'Faith'"]
+      },
+      {
+        "upgrade_to": "Monolith",
+        "requirements": ["paired with 'Time'", "survives while 2 allies fall"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 30,
+    "text": "Echo",
+    "cost": 11,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "sound", "time"],
+    "material_composition": ["generic", "intangible", "vibrational"],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "low (but recurring)",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["vocal species", "geological formations"],
+      "evolutionary_purpose": ["communication reinforcement", "orientation (echolocation)", "memory echo"]
+    },
+    "symbolic_associations": ["repetition", "memory", "fate", "reminder", "voice"],
+    "cultural_significance": ["linked to myth and poetry as a haunting or reflective force", "used as metaphor for legacy, trauma, or truth returning"],
+    "tactical_role": ["delayed damage", "status recursion", "memory playback", "sound-based disruption"],
+    "strengths_against": {
+      "system_word_types": ["fragile", "temporal", "illusion"],
+      "examples": ["Glass", "Dream", "Flash"],
+      "mechanism": "Recalls and reinforces past effects, bypassing short-lived defenses"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["absorption", "null", "silence"],
+      "examples": ["Void", "Mute", "Drown"],
+      "mechanism": "Requires a medium and prior action to reflect—fails in null zones"
+    },
+    "synergy_with": ["Sound", "Memory", "Voice", "Resonance"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.091,
+      "penalty_avoidance_score": 14,
+      "versatility_index": 4
+    },
+    "hypothetical_scenarios": [
+      "Copies the last non-illusionary action played and replays its effect at reduced strength",
+      "Can chain with 'Sound' to create an area-of-effect pulse",
+      "If used after 'Voice', can amplify emotional or command-based effects"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["sonar", "echo chambers in communication and music", "acoustic analysis"],
+      "mythological_references": ["Echo (Greek nymph cursed to repeat others)", "symbolic in ghost stories and epics"]
+    },
+    "quantum_properties": {
+      "observer_effect": "medium (only triggered after original is perceived)",
+      "entanglement_potential": "moderate (linked to previous units/actions)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Resonance",
+        "requirements": ["paired with 'Sound' or 'Voice'", "used in sequence with another vibrational unit"]
+      },
+      {
+        "upgrade_to": "Phantom Memory",
+        "requirements": ["triggers on an illusion or dream effect", "used in a repetition loop"]
+      }
+    ]
+  }
+  ,
+  {
+    "word_id": 31,
+    "text": "Thunder",
+    "cost": 12,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "sound", "storm", "sky"],
+    "material_composition": ["generic", "vibrational", "atmospheric"],
+    "physical_properties": {
+      "density": "n/a (shockwave)",
+      "flammability": "none",
+      "conductivity": "high",
+      "durability": "burst",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["n/a (natural phenomenon)"],
+      "evolutionary_purpose": ["n/a (atmospheric side effect of lightning)"]
+    },
+    "symbolic_associations": ["power", "wrath", "warning", "divine voice", "judgment"],
+    "cultural_significance": ["worshipped or feared in many mythologies", "symbol of unstoppable authority or emotional release"],
+    "tactical_role": ["area disruption", "burst damage", "morale shock", "chain attack"],
+    "strengths_against": {
+      "system_word_types": ["stealth", "fragility", "focus"],
+      "examples": ["Shadow", "Glass", "Meditation"],
+      "mechanism": "Stuns or disorients through concussive force and sheer intensity"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["absorption", "silence", "resonance"],
+      "examples": ["Void", "Echo", "Stillness"],
+      "mechanism": "Fails when echo is countered or vibrations are dispersed or negated"
+    },
+    "synergy_with": ["Storm", "Lightning", "Echo", "Sky"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.083,
+      "penalty_avoidance_score": 13,
+      "versatility_index": 3
+    },
+    "hypothetical_scenarios": [
+      "Deals AoE shock damage after 'Lightning' triggers",
+      "Cancels the next enemy action if it involves stealth or focus-based abilities",
+      "If paired with 'Echo', creates chain-reaction stuns"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["used in sonic weapon design (LRADs)", "researched in atmospheric physics"],
+      "mythological_references": ["Thor (Norse thunder god)", "Raijin (Japanese god of thunder)", "Zeus's thunderclaps"]
+    },
+    "quantum_properties": {
+      "observer_effect": "medium (effect increases with awareness)",
+      "entanglement_potential": "moderate (linked to prior energy release like 'Lightning')"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Sky Roar",
+        "requirements": ["used after 'Storm'", "affects 3+ enemy units"]
+      },
+      {
+        "upgrade_to": "Divine Shock",
+        "requirements": ["paired with 'Judgment' or 'Wrath'", "disrupts an elite or myth-tier unit"]
+      }
+    ]
+  }  
+  ,
+  {
+    "word_id": 32,
+    "text": "Karma",
+    "cost": 12,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "balance", "cycle"],
+    "material_composition": ["generic", "conceptual"],
+    "physical_properties": {
+      "density": "intangible",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "high (delayed effect)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["conscious agents"],
+      "evolutionary_purpose": ["social regulation", "moral feedback loop"]
+    },
+    "symbolic_associations": ["justice", "balance", "cycle", "consequence", "memory"],
+    "cultural_significance": ["central in Eastern spiritual systems", "used widely in moral philosophy and modern discourse", "associated with fate and cosmic justice"],
+    "tactical_role": ["counter", "delayed punishment", "moral recursion"],
+    "strengths_against": {
+      "system_word_types": ["aggression", "impulse", "abuse"],
+      "examples": ["Wrath", "Greed", "Exploit"],
+      "mechanism": "Reflects harmful actions back onto their source after a delay"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["detachment", "cleansing", "randomness"],
+      "examples": ["Void", "Forgive", "Chaos"],
+      "mechanism": "Ineffective against entities without intent, pattern, or memory"
+    },
+    "synergy_with": ["Fate", "Judgment", "Memory", "Cycle"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.083,
+      "penalty_avoidance_score": 13,
+      "versatility_index": 3
+    },
+    "hypothetical_scenarios": [
+      "Stores a snapshot of actions taken—then applies equivalent consequence later",
+      "Can purge the opponent’s buffs and apply mirrored debuffs instead",
+      "If used in a loop with 'Cycle', creates infinite retribution (limited to 3 turns)"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["social karmic concepts in Hinduism, Buddhism, Jainism", "used metaphorically in justice systems"],
+      "mythological_references": ["Yama (Hindu god of death and judgment)", "Nemesis (Greek goddess of retribution)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "high (action must be perceived to be judged)",
+      "entanglement_potential": "high (tied to cause-effect chains)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Cosmic Balance",
+        "requirements": ["triggers after 2 opposing harmful effects", "synergy with 'Fate' or 'Judgment'"]
+      },
+      {
+        "upgrade_to": "Revenant Justice",
+        "requirements": ["returns damage from 2+ fallen allies", "used in retaliation"]
+      }
+    ]
+  }
+  
+ ,
+ {
+  "word_id": 33,
+  "text": "Wind",
+  "cost": 13,
+  "tier": "high",
+  "categories": ["synthetic"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["neutral", "air", "motion"],
+  "material_composition": ["generic", "atmospheric"],
+  "physical_properties": {
+    "density": "low",
+    "flammability": "none",
+    "conductivity": "low",
+    "durability": "transient",
+    "aerodynamic": true
+  },
+  "biological_origin": {
+    "species_source": ["planetary systems"],
+    "evolutionary_purpose": ["seed dispersion", "temperature regulation", "navigation aid"]
+  },
+  "symbolic_associations": ["freedom", "change", "movement", "spirit", "unseen force"],
+  "cultural_significance": ["used in poetry and prophecy", "symbol of messengers, breath, and liberty", "connected with deities across many cultures"],
+  "tactical_role": ["mobility", "displacement", "buff/debuff vector"],
+  "strengths_against": {
+    "system_word_types": ["static", "structure", "precision"],
+    "examples": ["Stone", "Wall", "Focus"],
+    "mechanism": "Displaces units and disrupts rigid formations or actions"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["weight", "anchor", "void"],
+    "examples": ["Gravity", "Stillness", "Vacuum"],
+    "mechanism": "Loses force in grounded or nullified spaces"
+  },
+  "synergy_with": ["Storm", "Whisper", "Flight", "Direction"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 0.077,
+    "penalty_avoidance_score": 12,
+    "versatility_index": 2
+  },
+  "hypothetical_scenarios": [
+    "Can push units between zones or break enemy formations",
+    "Buffs ally movement or initiative speed for 1–2 turns",
+    "Cancels projectile attacks with erratic turbulence"
+  ],
+  "historical_precedents": {
+    "real_world_uses": ["wind power, sailing, weather systems"],
+    "mythological_references": ["Anemoi (Greek wind gods)", "Fūjin (Japanese wind deity)", "Breath of life motifs in creation myths"]
+  },
+  "quantum_properties": {
+    "observer_effect": "low",
+    "entanglement_potential": "low"
+  },
+  "upgrade_paths": [
+    {
+      "upgrade_to": "Gale",
+      "requirements": ["used in combination with 'Speed' or 'Flight'", "displaces 2+ units"]
+    },
+    {
+      "upgrade_to": "Zephyr",
+      "requirements": ["used as support effect", "no damage triggered"]
+    }
+  ]
+}
+
+  ,{
+    "word_id": 34,
+    "text": "Ice",
+    "cost": 13,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "water", "cold"],
+    "material_composition": ["generic", "crystalline"],
+    "physical_properties": {
+      "density": "high",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "brittle (high when solid, vulnerable to heat)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["environmental conditions"],
+      "evolutionary_purpose": ["preservation", "hibernation support", "terrain stabilization"]
+    },
+    "symbolic_associations": ["stillness", "restraint", "clarity", "death", "preservation"],
+    "cultural_significance": ["featured in polar mythologies, symbolic of stoicism or distance", "used in ritualistic and elemental symbolism"],
+    "tactical_role": ["status infliction", "movement restriction", "area denial"],
+    "strengths_against": {
+      "system_word_types": ["motion", "heat", "fluid"],
+      "examples": ["Fire", "Wind", "Blood"],
+      "mechanism": "Slows or solidifies unstable units; halts flow-based abilities"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["heat", "impact", "vibration"],
+      "examples": ["Flame", "Hammer", "Resonance"],
+      "mechanism": "Melts or shatters under high-energy or chaotic effects"
+    },
+    "synergy_with": ["Water", "Stillness", "Preserve", "Mirror"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.077,
+      "penalty_avoidance_score": 12,
+      "versatility_index": 2
+    },
+    "hypothetical_scenarios": [
+      "Freezes the movement of an enemy unit for 1–2 turns",
+      "Halves the effect duration of fire-based or chaos-based units nearby",
+      "Creates slippery terrain that lowers enemy initiative but increases unpredictability"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["cryogenics", "food and biological preservation", "natural fortifications"],
+      "mythological_references": ["Ymir (frost giant in Norse myth)", "Skadi (goddess of winter)", "the primordial cold of Ginnungagap"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Frostbite",
+        "requirements": ["applies status effect to 2+ units", "used in combination with 'Stillness' or 'Cold'"]
+      },
+      {
+        "upgrade_to": "Glacier",
+        "requirements": ["remains in play for 3 turns", "combined with 'Weight' or 'Preserve'"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 35,
+    "text": "Sandstorm",
+    "cost": 13,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "earth", "air", "chaos"],
+    "material_composition": ["generic", "granular", "atmospheric"],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "low",
+      "conductivity": "low",
+      "durability": "dispersed",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["desert ecosystems", "erosion-driven terrain"],
+      "evolutionary_purpose": ["camouflage", "predator deterrence", "soil redistribution"]
+    },
+    "symbolic_associations": ["obscurity", "turmoil", "resilience", "destruction", "impermanence"],
+    "cultural_significance": ["represents survival, wrath of nature, and blindness in mythologies", "used in literature to represent harsh change"],
+    "tactical_role": ["area denial", "vision control", "status disruption", "terrain hazard"],
+    "strengths_against": {
+      "system_word_types": ["precision", "light", "structure"],
+      "examples": ["Focus", "Beacon", "Fortress"],
+      "mechanism": "Obscures visibility, erodes stable defenses, causes ranged attacks to miss"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["moisture", "containment", "clarity"],
+      "examples": ["Rain", "Wall", "Truth"],
+      "mechanism": "Neutralized by environmental balance or overwhelming clarity"
+    },
+    "synergy_with": ["Dust", "Desert", "Blindness", "Chaos"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.077,
+      "penalty_avoidance_score": 12,
+      "versatility_index": 2
+    },
+    "hypothetical_scenarios": [
+      "Blinds all units in the zone for 1 turn, reducing accuracy",
+      "Gradually wears down defenses of grounded or mechanical units",
+      "Creates shifting terrain zones that affect movement patterns"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["used strategically in desert warfare (e.g., WWII North Africa)", "disrupts travel, visibility, and electronics"],
+      "mythological_references": ["Shuriman storms in fantasy lore", "seen as divine punishment in Mesopotamian myths"]
+    },
+    "quantum_properties": {
+      "observer_effect": "medium (perception fluctuates with visibility)",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Abrasive Tempest",
+        "requirements": ["causes terrain disruption", "synergy with 'Chaos' or 'Friction'"]
+      },
+      {
+        "upgrade_to": "Buried Memory",
+        "requirements": ["combined with 'Time' or 'Obscure'", "affects unit history or status delay"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 36,
+    "text": "Laser",
+    "cost": 14,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "light", "energy"],
+    "material_composition": ["generic", "photonic", "mechanical"],
+    "physical_properties": {
+      "density": "focused beam (non-massive)",
+      "flammability": "none",
+      "conductivity": "very high (energy transfer)",
+      "durability": "n/a (not physical structure)",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": ["technological innovation"],
+      "evolutionary_purpose": ["precision cutting", "communication", "targeted energy delivery"]
+    },
+    "symbolic_associations": ["precision", "surgery", "focus", "purity", "modernity"],
+    "cultural_significance": ["represents futuristic weaponry", "used in medical, industrial, and military tech", "symbol of clean, targeted change"],
+    "tactical_role": ["direct damage", "shield penetration", "anti-illusion"],
+    "strengths_against": {
+      "system_word_types": ["barrier", "illusion", "organic"],
+      "examples": ["Wall", "Mist", "Flesh"],
+      "mechanism": "Cuts cleanly through defenses and dispels obfuscating effects"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["scatter", "mirror", "energy drain"],
+      "examples": ["Fog", "Mirror", "Absorb"],
+      "mechanism": "Can be redirected, dispersed, or nullified by reflective or entropic surfaces"
+    },
+    "synergy_with": ["Focus", "Light", "Precision", "Mechanism"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.071,
+      "penalty_avoidance_score": 11,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Ignores traditional armor or shielding and deals precision-targeted damage",
+      "Destroys 'Illusion' or 'Clone' type units instantly",
+      "Weak in chaotic weather or multi-vector battlefields where focus is compromised"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["surgical tools, cutting machinery, guidance systems, communication (fiber optics), directed-energy weapons"],
+      "mythological_references": ["indirectly linked to the concept of divine or supernatural rays of judgment or healing"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "medium (linked targeting systems, signal coherence)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Plasma Lance",
+        "requirements": ["synergy with 'Heat' or 'Plasma'", "used on a heavily armored target"]
+      },
+      {
+        "upgrade_to": "Photon Blade",
+        "requirements": ["paired with 'Focus' or 'Precision'", "used in close-range or melee interaction"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 37,
+    "text": "Magma",
+    "cost": 14,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "earth", "fire", "chaos"],
+    "material_composition": ["generic", "molten", "geological"],
+    "physical_properties": {
+      "density": "very high",
+      "flammability": "extreme",
+      "conductivity": "low (thermal), high (destructive potential)",
+      "durability": "fluid but overwhelming",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["planetary core processes"],
+      "evolutionary_purpose": ["planetary renewal", "volcanic ecosystem creation"]
+    },
+    "symbolic_associations": ["destruction", "rebirth", "pressure", "eruption", "transformation"],
+    "cultural_significance": ["central in volcanic myths and rebirth cycles", "symbol of explosive emotion or divine wrath"],
+    "tactical_role": ["area control", "terrain transformation", "ongoing damage"],
+    "strengths_against": {
+      "system_word_types": ["structure", "cold", "static"],
+      "examples": ["Fortress", "Ice", "Stillness"],
+      "mechanism": "Melts or overwhelms rigid, slow, or cold-based defenses over time"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["airborne", "void", "containment"],
+      "examples": ["Flight", "Vacuum", "Shell"],
+      "mechanism": "Can be avoided by non-grounded units or neutralized with environmental control"
+    },
+    "synergy_with": ["Volcano", "Pressure", "Lava", "Collapse"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.071,
+      "penalty_avoidance_score": 11,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Creates persistent hazard zones that deal damage each turn",
+      "Can erupt to deal AoE damage and displace terrain",
+      "Hardens into 'Obsidian' if combined with 'Water', triggering transformation effects"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["lava flows studied in geology and volcanology", "used in metaphoric and symbolic representations of power and rebirth"],
+      "mythological_references": ["Pele (Hawaiian goddess of volcanoes)", "Hephaestus' forge in Greek mythology"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Lava Surge",
+        "requirements": ["erupts across multiple zones", "synergy with 'Pressure' or 'Fire'"]
+      },
+      {
+        "upgrade_to": "Obsidian Core",
+        "requirements": ["combined with 'Water' or 'Time'", "remains active for 3+ turns"]
+      }
+    ]
+  }
+  
+ ,
+ {
+  "word_id": 38,
+  "text": "Peace",
+  "cost": 14,
+  "tier": "high",
+  "categories": ["synthetic"],
+  "subcategories": ["basic_unit"],
+  "elemental_affinity": ["neutral", "order", "stability"],
+  "material_composition": ["generic", "conceptual", "psychological"],
+  "physical_properties": {
+    "density": "intangible",
+    "flammability": "none",
+    "conductivity": "low",
+    "durability": "high (resists decay)",
+    "aerodynamic": false
+  },
+  "biological_origin": {
+    "species_source": ["social species", "empathic behavior"],
+    "evolutionary_purpose": ["conflict resolution", "resource conservation", "group cohesion"]
+  },
+  "symbolic_associations": ["harmony", "balance", "resolution", "nonviolence", "light"],
+  "cultural_significance": ["central to religion, philosophy, and diplomacy", "symbol of hope, unity, and moral high ground"],
+  "tactical_role": ["conflict suppression", "status reset", "field-wide calming effect"],
+  "strengths_against": {
+    "system_word_types": ["aggression", "chaos", "violence"],
+    "examples": ["War", "Wrath", "Destruction"],
+    "mechanism": "Suppresses or neutralizes damage-dealing actions; enforces a temporary ceasefire or pacification zone"
+  },
+  "weaknesses_against": {
+    "system_word_types": ["corruption", "entropy", "betrayal"],
+    "examples": ["Decay", "Glitch", "Deceit"],
+    "mechanism": "Can be bypassed or undermined by hidden or eroding forces that work outside direct conflict"
+  },
+  "synergy_with": ["Sanctuary", "Balance", "Hope", "Silence"],
+  "game_metrics": {
+    "cost_efficiency_ratio": 0.071,
+    "penalty_avoidance_score": 11,
+    "versatility_index": 1
+  },
+  "hypothetical_scenarios": [
+    "Cancels all attack actions for one round unless overridden by stronger-tier violence",
+    "Resets debuffs on allied units and lowers hostility scores in diplomacy sub-systems",
+    "If used in succession with 'Hope' or 'Sanctuary', creates an aura of invulnerability for 1 turn"
+  ],
+  "historical_precedents": {
+    "real_world_uses": ["peace treaties, disarmament protocols, nonviolent resistance movements"],
+    "mythological_references": ["Eirene (Greek personification of peace)", "Pax (Roman goddess of peace)"]
+  },
+  "quantum_properties": {
+    "observer_effect": "high (intention-dependent)",
+    "entanglement_potential": "moderate (linked to emotional state of multiple entities)"
+  },
+  "upgrade_paths": [
+    {
+      "upgrade_to": "Sanctuary",
+      "requirements": ["used defensively twice", "paired with 'Hope' or 'Shield'"]
+    },
+    {
+      "upgrade_to": "Truce Engine",
+      "requirements": ["applies to 3+ enemy units", "used in a diplomacy-based trigger"]
+    }
+  ]
+}
+
+  ,
+  {
+    "word_id": 39,
+    "text": "Explosion",
+    "cost": 15,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "fire", "chaos", "force"],
+    "material_composition": ["generic", "combustive", "energetic"],
+    "physical_properties": {
+      "density": "n/a (expansive force)",
+      "flammability": "extreme",
+      "conductivity": "high (thermal and pressure)",
+      "durability": "n/a (instantaneous event)",
+      "aerodynamic": "n/a (shockwave)"
+    },
+    "biological_origin": {
+      "species_source": ["human warfare", "natural volcanic reactions"],
+      "evolutionary_purpose": ["none — synthetic or natural consequence"]
+    },
+    "symbolic_associations": ["sudden change", "destruction", "rebirth", "chaos", "impact"],
+    "cultural_significance": ["symbol of war, innovation, catastrophe, and transformation", "used metaphorically in media and philosophy (e.g. 'explosive truth')"],
+    "tactical_role": ["AoE damage", "terrain disruption", "instant activation"],
+    "strengths_against": {
+      "system_word_types": ["clustered", "defensive", "slow"],
+      "examples": ["Wall", "Swarm", "Stillness"],
+      "mechanism": "Deals simultaneous damage to all targets in range; bypasses traditional defenses through force"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["dispersed", "intangible", "anticipation"],
+      "examples": ["Mist", "Ghost", "Shield"],
+      "mechanism": "Less effective against evasive or anticipatory units that diffuse impact"
+    },
+    "synergy_with": ["Fire", "Pressure", "Chain Reaction", "Destruction"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.067,
+      "penalty_avoidance_score": 10,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Can be triggered as a delayed trap or immediate blast, with diminishing returns over turns",
+      "Shifts terrain into unstable state, affecting future placement",
+      "When paired with 'Chain Reaction', spreads into neighboring zones"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["mining, demolition, warfare", "chemical and nuclear breakthroughs"],
+      "mythological_references": ["Hindu myths of divine weapons (e.g. Brahmastra)", "symbolic events like Ragnarok or apocalypse involving fire and rupture"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low (independent of observation)",
+      "entanglement_potential": "medium (chain-based explosive setups)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Chain Reaction",
+        "requirements": ["affects 2+ zones", "paired with 'Fuel' or 'Pressure'"]
+      },
+      {
+        "upgrade_to": "Shockwave",
+        "requirements": ["displaces 3+ enemy units", "used in terrain-dense zones"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 40,
+    "text": "War",
+    "cost": 15,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "conflict", "chaos"],
+    "material_composition": ["generic", "composite", "strategic"],
+    "physical_properties": {
+      "density": "n/a (multi-system abstraction)",
+      "flammability": "high",
+      "conductivity": "medium",
+      "durability": "long-term (sustained through action chains)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["sentient species"],
+      "evolutionary_purpose": ["territorial control", "resource acquisition", "ideological dominance"]
+    },
+    "symbolic_associations": ["conflict", "destruction", "strategy", "glory", "division"],
+    "cultural_significance": ["central to myth, history, and nation-building; both feared and revered", "used in political rhetoric, games, and epics"],
+    "tactical_role": ["sustained pressure", "multi-front engagement", "morale manipulation"],
+    "strengths_against": {
+      "system_word_types": ["peace", "structure", "singular units"],
+      "examples": ["Peace", "Sanctuary", "Monolith"],
+      "mechanism": "Overwhelms static or pacifist systems through attrition and cumulative disruption"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["subtlety", "deception", "spiritual"],
+      "examples": ["Whisper", "Deceit", "Faith"],
+      "mechanism": "Vulnerable to morale sabotage, asymmetric tactics, or ideological counters"
+    },
+    "synergy_with": ["Violence", "Command", "Armor", "Fury"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.067,
+      "penalty_avoidance_score": 10,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Can initiate a 'state of war' for multiple rounds, escalating all damage values",
+      "Triggers morale checks for all units — failure causes unit collapse or defection",
+      "Can consume minor units to fuel itself (e.g. turning 'Soldier', 'Armor', or 'Fear' into strength boosts)"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["all forms of state, tribal, and religious warfare", "military theory, deterrence, diplomacy"],
+      "mythological_references": ["Ares/Mars (Greek/Roman gods of war)", "Kali (goddess of destruction)", "Ragnarök (Norse end-time battle)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "high (amplified by ideological perception)",
+      "entanglement_potential": "high (conflict echoes across systems)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Total War",
+        "requirements": ["at least 3 conflict units in play", "used over 2+ turns"],
+        "effect": "removes penalties for collateral effects; boosts global aggression"
+      },
+      {
+        "upgrade_to": "Warlord Protocol",
+        "requirements": ["synergy with 'Command'", "outlasts 2 enemy structures"],
+        "effect": "converts War into a command-based control unit"
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 41,
+    "text": "Enlightenment",
+    "cost": 15,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "light", "mind", "order"],
+    "material_composition": ["generic", "conceptual", "intellectual"],
+    "physical_properties": {
+      "density": "none (pure concept)",
+      "flammability": "none",
+      "conductivity": "high (knowledge/energy transmission)",
+      "durability": "high (resistant to corruption)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["self-aware, sentient species"],
+      "evolutionary_purpose": ["self-reflection", "ethical development", "adaptive insight"]
+    },
+    "symbolic_associations": ["clarity", "awakening", "inner peace", "transcendence", "truth"],
+    "cultural_significance": ["central in spiritual traditions (Buddhism, Gnosticism)", "used in philosophy and revolutions (e.g. Age of Enlightenment)", "often contrasted with ignorance"],
+    "tactical_role": ["truth reveal", "illusion dispel", "global buff", "meta-level clarity"],
+    "strengths_against": {
+      "system_word_types": ["illusion", "deception", "chaos"],
+      "examples": ["Mist", "Deceit", "Paradox"],
+      "mechanism": "Dispels confusion effects and exposes hidden mechanics or altered states"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["ignorance", "disruption", "dogma"],
+      "examples": ["Noise", "Interference", "Blind Faith"],
+      "mechanism": "Can be overwhelmed by distortion fields, cognitive dissonance, or deliberate misinformation"
+    },
+    "synergy_with": ["Truth", "Light", "Meditation", "Knowledge"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.067,
+      "penalty_avoidance_score": 10,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Reveals all hidden units and game states for 1 turn",
+      "Negates the next illusion, deception, or chaos effect applied to allies",
+      "Boosts clarity, efficiency, and resistance of all knowledge-aligned units"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["Age of Enlightenment (Europe)", "philosophical movements toward reason, logic, liberty"],
+      "mythological_references": ["Buddha's awakening", "Hermes Trismegistus", "Gnostic illumination traditions"]
+    },
+    "quantum_properties": {
+      "observer_effect": "very high (dependent on perception and awareness)",
+      "entanglement_potential": "high (linked clarity across systems)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Transcendence",
+        "requirements": ["paired with 'Meditation' or 'Truth'", "active for 3 turns without taking damage"]
+      },
+      {
+        "upgrade_to": "Revelation",
+        "requirements": ["dispel 2+ illusion or deceit effects", "used in tandem with 'Knowledge' or 'Insight'"]
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 42,
+    "text": "Nuclear Bomb",
+    "cost": 16,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "radiation", "fire", "force"],
+    "material_composition": ["generic", "atomic", "explosive"],
+    "physical_properties": {
+      "density": "extreme (core)",
+      "flammability": "extreme",
+      "conductivity": "very high (plasma/EMP/radiation effects)",
+      "durability": "single-use (irreversible)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["advanced technological civilizations"],
+      "evolutionary_purpose": ["none — weapon of mass destruction"]
+    },
+    "symbolic_associations": ["apocalypse", "finality", "deterrence", "mutually assured destruction"],
+    "cultural_significance": ["represents the pinnacle of human destructive capability", "deeply embedded in Cold War fears, nuclear ethics, and sci-fi futures"],
+    "tactical_role": ["mass destruction", "zone erasure", "endgame deterrent"],
+    "strengths_against": {
+      "system_word_types": ["structure", "mass", "army"],
+      "examples": ["Fortress", "Swarm", "Command"],
+      "mechanism": "Destroys all units in target zone regardless of tier, ignores defense, leaves fallout effect"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["containment", "denial", "shielding"],
+      "examples": ["EMP Shield", "Void Field", "Quantum Dissolve"],
+      "mechanism": "Can be prevented or nullified before detonation; self-harming if misused"
+    },
+    "synergy_with": ["War", "Trigger", "Fallout", "Radiation"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.062,
+      "penalty_avoidance_score": 9,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Wipes all units and structures in a 2-zone radius",
+      "Leaves lasting 'Fallout' hazard — prevents deployment for 3 turns",
+      "If intercepted before detonation, causes global morale collapse for user"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["Hiroshima and Nagasaki (WWII)", "Cold War nuclear deterrence doctrine", "ICBM systems"],
+      "mythological_references": ["the 'world-ending fire' in various apocalyptic traditions (e.g. Surtr’s flame in Norse myth, Kalki's purifying destruction in Hindu lore)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low (independent of awareness)",
+      "entanglement_potential": "very high (triggers global response effects)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Apocalypse Device",
+        "requirements": ["played after 'War' and 'Fallout'", "triggers global status reset"],
+        "effect": "Resets the board but leaves the user unable to act for 1 turn"
+      },
+      {
+        "upgrade_to": "Doom Clock",
+        "requirements": ["revealed but not triggered", "ticking for 3 turns"],
+        "effect": "Forces all players to act differently or face complete annihilation"
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 43,
+    "text": "Volcano",
+    "cost": 16,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "earth", "fire", "pressure"],
+    "material_composition": ["generic", "geological", "molten"],
+    "physical_properties": {
+      "density": "extreme",
+      "flammability": "extreme (once active)",
+      "conductivity": "low (thermal), high (lava flow effect)",
+      "durability": "very high (pre-eruption), volatile (post-eruption)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["planetary geology"],
+      "evolutionary_purpose": ["natural terrain renewal and destruction"]
+    },
+    "symbolic_associations": ["wrath", "rebirth", "suppressed rage", "inevitability", "primordial force"],
+    "cultural_significance": ["sacred or feared in many mythologies", "often used as a symbol of unpredictable divine power or cataclysm"],
+    "tactical_role": ["delayed AoE threat", "terrain rewriter", "pressure zone creation"],
+    "strengths_against": {
+      "system_word_types": ["structure", "static", "cold"],
+      "examples": ["Fortress", "Ice", "Stillness"],
+      "mechanism": "Melts through defenses and reconfigures terrain into hostile, molten states"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["sky", "null", "drain"],
+      "examples": ["Flight", "Void", "Sink"],
+      "mechanism": "Limited against non-grounded units or absorption fields that neutralize heat and impact"
+    },
+    "synergy_with": ["Magma", "Pressure", "Ash", "Collapse"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.062,
+      "penalty_avoidance_score": 9,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Charges for 2 turns before erupting, dealing heavy AoE damage in adjacent zones",
+      "Eruption causes 'Lava Flow' that damages every unit entering the zone for the next 3 turns",
+      "If interrupted mid-charge, it triggers a partial eruption, creating a random environmental hazard"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["Pompeii, Krakatoa, Mount Tambora — used metaphorically in literature and prophecy"],
+      "mythological_references": ["Mount Etna (home of Hephaestus)", "volcanoes as gates to the underworld in Hawaiian and Polynesian myth"]
+    },
+    "quantum_properties": {
+      "observer_effect": "medium (eruption time may shift depending on awareness)",
+      "entanglement_potential": "medium (can link with 'Magma', 'Ash', or 'Pressure' in chain reactions)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Supervolcano",
+        "requirements": ["erupts after 3 turns", "synergy with 'Pressure' or 'Ash'"],
+        "effect": "Destroys all structures in a 3-zone radius and covers the field in volcanic fog"
+      },
+      {
+        "upgrade_to": "Dormant Titan",
+        "requirements": ["remains untriggered for 5 turns", "paired with 'Stone' or 'Time'"],
+        "effect": "Becomes an immovable landmark that alters global terrain behavior and slows time-based effects"
+      }
+    ]
+  }
+  ,
+  {
+    "word_id": 44,
+    "text": "Whale",
+    "cost": 17,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "water", "depth", "sound"],
+    "material_composition": ["organic", "symbolic", "oceanic"],
+    "physical_properties": {
+      "density": "massive",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "very high (resistant to attrition)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["cetaceans", "prehistoric marine evolution"],
+      "evolutionary_purpose": ["apex oceanic intelligence", "ecosystem equilibrium"]
+    },
+    "symbolic_associations": ["depth", "memory", "wisdom", "echo", "myth"],
+    "cultural_significance": ["seen as ancient beings of knowledge or catastrophe", "symbol in spiritual traditions and literature (e.g. Moby-Dick, Jonah, creation myths)"],
+    "tactical_role": ["support colossus", "area control", "resonant disruption"],
+    "strengths_against": {
+      "system_word_types": ["lightweight", "chaotic", "dispersed"],
+      "examples": ["Mist", "Flock", "Echo"],
+      "mechanism": "Overwhelms scattered formations through sonic force and sheer physical presence"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["airborne", "piercing", "precision"],
+      "examples": ["Laser", "Storm", "Needle"],
+      "mechanism": "Large and slow; vulnerable to ranged precision or airborne bombardment"
+    },
+    "synergy_with": ["Ocean", "Song", "Echo", "Depth"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.059,
+      "penalty_avoidance_score": 8,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Emits a 'Deep Call' every 2 turns that buffs aquatic or sound-aligned allies",
+      "Can submerge to become untargetable for 1 turn",
+      "If it is removed from play, all 'Echo' or 'Ocean' units gain temporary stat boosts out of grief or rage"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["whales influence marine ecosystems; symbolic in many maritime cultures"],
+      "mythological_references": ["Leviathan (Biblical), Tannin (Hebrew), Jörmungandr (Norse), Taninim (Jewish sea monsters), the Whale of Jonah"]
+    },
+    "quantum_properties": {
+      "observer_effect": "high (its presence affects morale and perception)",
+      "entanglement_potential": "medium (linked to sound-based or oceanic units)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Leviathan",
+        "requirements": ["synergy with 'Ocean' or 'Myth'", "remains active for 3+ turns"],
+        "effect": "Becomes a legendary unit capable of breaking terrain boundaries and swallowing zones"
+      },
+      {
+        "upgrade_to": "Eternal Song",
+        "requirements": ["combined with 'Echo' or 'Memory'", "unit is not attacked for 2+ turns"],
+        "effect": "Passively buffs all sound-aligned units globally while in play"
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 45,
+    "text": "Earth",
+    "cost": 17,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "nature", "foundation", "stability"],
+    "material_composition": ["generic", "geological", "organic"],
+    "physical_properties": {
+      "density": "high",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "extreme",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["planetary systems", "biosphere interfaces"],
+      "evolutionary_purpose": ["foundation for all ecosystems", "nutrient cycles", "structural integrity"]
+    },
+    "symbolic_associations": ["life", "patience", "balance", "roots", "endurance"],
+    "cultural_significance": ["sacred in many creation myths", "seen as a maternal or stabilizing force", "linked to agriculture, permanence, and death rituals"],
+    "tactical_role": ["stabilizer", "damage absorber", "status immunity anchor"],
+    "strengths_against": {
+      "system_word_types": ["airborne", "chaos", "energy"],
+      "examples": ["Wind", "Storm", "Lightning"],
+      "mechanism": "Grounds volatile units, negates airborne advantage, resists destabilization effects"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["erosion", "water", "entropy"],
+      "examples": ["Flood", "Decay", "Drift"],
+      "mechanism": "Can be slowly worn down or dissolved by persistent or fluid-based attacks"
+    },
+    "synergy_with": ["Stone", "Growth", "Roots", "Gravity"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.059,
+      "penalty_avoidance_score": 8,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Reduces damage from all elemental types by 20% to adjacent allies",
+      "Blocks terrain manipulation and unit displacement in its zone",
+      "Can be seeded to grow into more complex units like 'Forest', 'Mountain', or 'Sanctuary'"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["agriculture, burial, terraforming, construction"],
+      "mythological_references": ["Gaia (Greek mother of Earth)", "Prithvi (Hindu goddess of Earth)", "Tellus (Roman Earth deity)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low (does not shift under scrutiny)",
+      "entanglement_potential": "moderate (anchors or grounds other units)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Worldcore",
+        "requirements": ["paired with 'Roots' or 'Mountain'", "remains untouched for 3 turns"],
+        "effect": "Grants passive regeneration to all natural units"
+      },
+      {
+        "upgrade_to": "Living Soil",
+        "requirements": ["synergy with 'Growth' or 'Life'", "buffs 2+ organic units"],
+        "effect": "Spawns additional support units over time (e.g. 'Seedling', 'Burrow')"
+      }
+    ]
+  },
+  {
+    "word_id": 46,
+    "text": "Moon",
+    "cost": 17,
+    "tier": "high",
+    "categories": [
+      "synthetic",
+      "celestial"
+    ],
+    "subcategories": [
+      "basic_unit",
+      "orbital_object"
+    ],
+    "elemental_affinity": [
+      "neutral"
+    ],
+    "material_composition": [
+      "rocky_material",
+      "minerals"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "high",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [],
+      "evolutionary_purpose": []
+    },
+    "symbolic_associations": [
+      "night",
+      "feminine energy",
+      "reflection",
+      "mystery"
+    ],
+    "cultural_significance": [
+      "In many cultures, the Moon symbolizes cycles, change, and the passage of time.",
+      "The Moon is often associated with lunar deities, such as Artemis, Selene, and Chandra in various mythologies."
+    ],
+    "tactical_role": [
+      "Orbital platform: Can serve as a base for space operations or a launch point for missions to other celestial bodies.",
+      "Resource gathering: The Moon's surface contains valuable materials such as helium-3, which can be used for fusion energy."
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "long-range attacks",
+        "space debris"
+      ],
+      "examples": [
+        "Can act as a shield against incoming meteors and cosmic radiation for nearby space habitats or colonies.",
+        "Provides a vantage point for monitoring space activities and long-range observation."
+      ],
+      "mechanism": "The Moon's gravitational pull and lack of atmosphere provide a natural barrier against some threats."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "orbital weapons",
+        "high-energy blasts"
+      ],
+      "examples": [
+        "Orbital weaponry can easily target and destroy the Moon's surface.",
+        "High-energy beams, such as lasers, can penetrate the Moon's surface, compromising its utility."
+      ]
+    },
+    "synergy_with": [
+      "Space habitats",
+      "Lunar mining stations",
+      "Tethered satellite systems"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.059,
+      "penalty_avoidance_score": 8,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "A colony built on the Moon could serve as a strategic outpost for exploring the solar system and beyond.",
+      "Mining the Moon for resources like helium-3 could provide a nearly limitless source of energy for Earth's future."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "The Apollo missions to the Moon have provided invaluable knowledge about space exploration and lunar geology.",
+        "The Moon serves as a critical focus for space programs such as NASA's Artemis, which aims to return humans to the lunar surface."
+      ],
+      "mythological_references": [
+        "In Greek mythology, the Moon was personified by the goddess Selene, who drove a chariot across the sky.",
+        "In Roman mythology, the Moon was represented by Diana, the goddess of the hunt and the protector of women."
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      "Lunar Colony",
+      "Space Elevator",
+      "Lunar Orbital Defense System"
+    ]
+  },
+  {
+    "word_id": 47,
+    "text": "Star",
+    "cost": 18,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "light", "fire", "cosmic"],
+    "material_composition": ["stellar plasma", "radiant", "nuclear"],
+    "physical_properties": {
+      "density": "extreme core, diffuse outer",
+      "flammability": "n/a (self-generating fusion)",
+      "conductivity": "high (energy and heat)",
+      "durability": "massive (but volatile over time)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["n/a (celestial phenomena)"],
+      "evolutionary_purpose": ["source of life energy", "gravitational balance", "stellar evolution"]
+    },
+    "symbolic_associations": ["guidance", "destiny", "illumination", "hope", "power"],
+    "cultural_significance": ["central to ancient navigation, astrology, and prophecy", "associated with gods, souls, wishes, and eternity"],
+    "tactical_role": ["area illumination", "power source", "endurance burn"],
+    "strengths_against": {
+      "system_word_types": ["dark", "cold", "illusion"],
+      "examples": ["Shadow", "Ice", "Fog"],
+      "mechanism": "Radiates light and heat that dispels illusions, melts obstacles, and weakens shadow-aligned units"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["black hole", "void", "entropy"],
+      "examples": ["Singularity", "Oblivion", "Collapse"],
+      "mechanism": "Can be drained, absorbed, or collapsed under extreme gravitational forces or anti-energy fields"
+    },
+    "synergy_with": ["Light", "Fire", "Gravity", "Orbit", "Hope"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.056,
+      "penalty_avoidance_score": 7,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Radiates passive buffs to light-aligned units across all zones",
+      "If destroyed, triggers 'Nova' — an explosive burst dealing damage in all directions",
+      "Can be orbited by other celestial units for compounding effects (e.g. 'Planet', 'Comet')"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["used for navigation, calendars, agriculture", "source of solar power and timekeeping"],
+      "mythological_references": ["Sirius in Egyptian mythology", "Morning Star (Venus/Lucifer)", "star births in Hindu, Polynesian, and Sumerian cosmology"]
+    },
+    "quantum_properties": {
+      "observer_effect": "high (its presence alters field behaviors and morale)",
+      "entanglement_potential": "high (can be linked with celestial cycles or fate-bound units)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Supernova",
+        "requirements": ["used for 3+ turns then destroyed or sacrificed"],
+        "effect": "Triggers massive AoE burn and resets energy-based units"
+      },
+      {
+        "upgrade_to": "Constellation",
+        "requirements": ["linked to 3 other light or celestial units"],
+        "effect": "Grants global visibility and passive bonus to fate-aligned effects"
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 48,
+    "text": "Tsunami",
+    "cost": 18,
+    "tier": "high",
+    "categories": ["synthetic"],
+    "subcategories": ["basic_unit"],
+    "elemental_affinity": ["neutral", "water", "motion", "chaos"],
+    "material_composition": ["oceanic", "hydraulic", "kinetic"],
+    "physical_properties": {
+      "density": "massive",
+      "flammability": "none",
+      "conductivity": "medium (electrolytic potential)",
+      "durability": "waveform (resists until impact)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": ["seismic marine activity"],
+      "evolutionary_purpose": ["none — consequence of tectonic disruption"]
+    },
+    "symbolic_associations": ["cleansing", "revenge", "cycle", "sudden shift", "natural wrath"],
+    "cultural_significance": ["featured in myth as divine punishment or cleansing reset", "core metaphor in spiritual and ecological tales of rebirth and loss"],
+    "tactical_role": ["zone purge", "unit displacement", "flood mechanic"],
+    "strengths_against": {
+      "system_word_types": ["grounded", "fortified", "structure"],
+      "examples": ["Earth", "Wall", "Monolith"],
+      "mechanism": "Sweeps away static units, nullifies defense setups, overwhelms durable formations"
+    },
+    "weaknesses_against": {
+      "system_word_types": ["airborne", "evaporative", "containment"],
+      "examples": ["Flight", "Sun", "Dam"],
+      "mechanism": "Fails to reach flying targets and can be dissipated by heat or blocked by terrain control"
+    },
+    "synergy_with": ["Ocean", "Storm", "Moon", "Collapse"],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.056,
+      "penalty_avoidance_score": 7,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "Erases all units in a 2-zone-wide corridor, both ally and enemy",
+      "Leaves zones in 'Flooded' state — slowing movement, disabling fire-based actions",
+      "If paired with 'Moon' or 'Earthquake', deals additional splash to adjacent zones"
+    ],
+    "historical_precedents": {
+      "real_world_uses": ["disaster modeling, climate science, ancient flood myths"],
+      "mythological_references": ["global deluge myths (e.g. Noah, Deucalion)", "kami of water and sea in Shinto (e.g. Ryujin)"]
+    },
+    "quantum_properties": {
+      "observer_effect": "low (inevitable once in motion)",
+      "entanglement_potential": "medium (can trigger or be triggered by tectonic or lunar events)"
+    },
+    "upgrade_paths": [
+      {
+        "upgrade_to": "Deluge",
+        "requirements": ["synergy with 'Flood' or 'Myth'", "affects 3 or more zones"],
+        "effect": "Creates a lasting field-wide environmental modifier favoring aquatic units"
+      },
+      {
+        "upgrade_to": "Wall of Water",
+        "requirements": ["blocked by containment effect", "used defensively"],
+        "effect": "Forms a permanent defensive flood wall in a zone, negating entry and damage"
+      }
+    ]
+  }
+  
+  ,
+  {
+    "word_id": 49,
+    "text": "Supernova",
+    "cost": 19,
+    "tier": "high",
+    "categories": [
+      "synthetic",
+      "energy",
+      "destructive"
+    ],
+    "subcategories": [
+      "basic_unit",
+      "weaponizable"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "chaotic"
+    ],
+    "material_composition": [
+      "stellar matter",
+      "explosive"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "none (nuclear fusion)",
+      "conductivity": "high",
+      "durability": "extremely low (destroys everything in its path)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [],
+      "evolutionary_purpose": []
+    },
+    "symbolic_associations": [
+      "cataclysmic change",
+      "the end of an era",
+      "immense energy",
+      "destruction of life"
+    ],
+    "cultural_significance": [
+      "In many cultures, supernovas symbolize the grand cycle of birth and death in the universe, often used to signify a powerful, inevitable end."
+    ],
+    "tactical_role": [
+      "Catastrophic weapon: A supernova can wipe out entire star systems, leaving nothing behind but cosmic radiation and remnants.",
+      "Energy generator: Can theoretically be harnessed as a limitless source of energy if controlled, though the risks are extreme."
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "matter-based structures",
+        "defensive barriers"
+      ],
+      "examples": [
+        "Can annihilate planets, entire fleets, or even star systems with its immense release of energy.",
+        "Destroys any structure or material in its explosive range, regardless of durability."
+      ],
+      "mechanism": "A supernova releases a massive amount of energy in the form of heat, light, and radiation, obliterating anything within its radius."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "quantum shielding",
+        "dimensional barriers"
+      ],
+      "examples": [
+        "Quantum barriers can absorb or redirect some of the supernova's energy, rendering it less effective against highly advanced technologies."
+      ]
+    },
+    "synergy_with": [
+      "Energy Conduit",
+      "Massive Gravitational Manipulator",
+      "Black Hole Engine"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.053,
+      "penalty_avoidance_score": 6,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "A fleet utilizing supernova-based weapons could obliterate entire fleets or planets, establishing dominance over vast swaths of the galaxy.",
+      "In the distant future, scientists may harness the energy of a supernova for power generation, although the technology required would be dangerously unstable."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "Supernovae are naturally occurring stellar events, studied by astronomers to understand the life cycle of stars.",
+        "The discovery of supernova remnants has provided valuable insights into stellar evolution and the creation of heavy elements."
+      ],
+      "mythological_references": [
+        "In mythology, supernovae are sometimes interpreted as signs of divine intervention, the death of gods, or the collapse of great civilizations."
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      "Supernova Bomb",
+      "Gravitational Wave Generator",
+      "Nova Core Reactor"
+    ]
+}
+,
+  {
+    "word_id": 50,
+    "text": "Antimatter",
+    "cost": 19,
+    "tier": "high",
+    "categories": [
+      "synthetic",
+      "energy",
+      "destructive"
+    ],
+    "subcategories": [
+      "basic_unit",
+      "weaponizable"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "chaotic"
+    ],
+    "material_composition": [
+      "opposite matter",
+      "subatomic particles"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "none",
+      "conductivity": "variable",
+      "durability": "extremely low (instant annihilation on contact with matter)",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [],
+      "evolutionary_purpose": []
+    },
+    "symbolic_associations": [
+      "destruction",
+      "the end of matter",
+      "cosmic balance",
+      "energy release"
+    ],
+    "cultural_significance": [
+      "In science fiction, antimatter is often seen as a weapon of ultimate destruction or a key to limitless energy.",
+      "The concept of antimatter is tied to the idea of symmetry and the destruction of the known universe."
+    ],
+    "tactical_role": [
+      "Devastating weapon: Antimatter annihilates anything it touches, causing massive explosions.",
+      "Energy source: When harnessed, antimatter can power highly efficient reactors or devices.",
+      "Strategic asset: Control of antimatter allows for overwhelming offensive capabilities."
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "matter-based defenses",
+        "physical barriers"
+      ],
+      "examples": [
+        "Can easily destroy physical entities and matter-based structures, including heavily reinforced fortifications."
+      ],
+      "mechanism": "When antimatter comes into contact with normal matter, they annihilate each other, converting into pure energy."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "antimatter containment",
+        "quantum shielding"
+      ],
+      "examples": [
+        "Requires precise containment mechanisms to prevent accidental annihilation.",
+        "Quantum shielding can prevent antimatter from coming into contact with normal matter."
+      ]
+    },
+    "synergy_with": [
+      "Energy Matrix",
+      "Quantum Field Stabilizer",
+      "Annihilation Wave"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.053,
+      "penalty_avoidance_score": 6,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "A starship weaponized with antimatter charges can obliterate entire fleets with a single shot, transforming enemies into energy.",
+      "In a high-stakes race for interstellar dominance, the discovery of antimatter propulsion provides the key to faster-than-light travel."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "Theoretical research in particle physics, such as CERN’s efforts to understand antimatter.",
+        "Attempts to harness antimatter for energy storage or propulsion in advanced scientific endeavors."
+      ],
+      "mythological_references": [
+        "In ancient myths, destructive forces akin to antimatter are often linked to gods or creatures capable of reshaping or ending the world."
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "low"
+    },
+    "upgrade_paths": [
+      "Antimatter Reactor",
+      "Singularity Harness",
+      "Total Annihilation Engine"
+    ]
+},
+  {
+    "word_id": 51,
+    "text": "Plague",
+    "cost": 20,
+    "tier": "high",
+    "categories": [
+      "biological weapon",
+      "contagion"
+    ],
+    "subcategories": [
+      "disease",
+      "curse"
+    ],
+    "elemental_affinity": [
+      "dark",
+      "decay"
+    ],
+    "material_composition": [
+      "viral essence",
+      "toxic spores",
+      "infectious agents"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "low",
+      "conductivity": "none",
+      "durability": "low (rapid decay of its form)",
+      "aerodynamic": true
+    },
+    "biological_origin": {
+      "species_source": [
+        "bacteria",
+        "viruses",
+        "fungi"
+      ],
+      "evolutionary_purpose": [
+        "destruction of populations",
+        "host manipulation for survival"
+      ]
+    },
+    "symbolic_associations": [
+      "death",
+      "suffering",
+      "apocalypse",
+      "overwhelming force"
+    ],
+    "cultural_significance": [
+      "Plagues have been seen as divine punishment in many cultures, especially in religious texts.",
+      "Used symbolically in various folklore as a harbinger of doom."
+    ],
+    "tactical_role": [
+      "Area denial: Plague spreads over time, weakening opponents gradually.",
+      "Mass debuff: Reduces the effectiveness of enemies over a period of time.",
+      "Psychological warfare: The presence of plague induces panic and chaos."
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "health regeneration",
+        "healing abilities",
+        "biological defenses"
+      ],
+      "examples": [
+        "Effective against units or entities reliant on organic healing.",
+        "Destroys barriers made of biological material or regenerating forces."
+      ],
+      "mechanism": "Plague’s toxic nature bypasses regenerative traits and degrades organic systems over time."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "purification",
+        "restoration",
+        "magic of renewal"
+      ],
+      "examples": [
+        "Purification rituals can cleanse the plague from affected areas.",
+        "Restoration magic rapidly heals those infected, neutralizing the plague’s effects."
+      ]
+    },
+    "synergy_with": [
+      "Famine",
+      "Terror",
+      "Disease Infusion"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.05,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 1
+    },
+    "hypothetical_scenarios": [
+      "A city gripped by plague sees its inhabitants weaken, their defenses crumble, and chaos reigns in the streets.",
+      "A battlefield where the forces of plague spread faster than the enemy can retreat, causing them to succumb to the infection."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "The Black Death (1347-1351), which decimated Europe.",
+        "Biological warfare involving disease-infested weapons in ancient and modern times."
+      ],
+      "mythological_references": [
+        "The Plague of Egypt (Biblical context) which forced the release of the Israelites.",
+        "Greek mythology’s connection to pestilence, such as Apollo bringing plague upon the Greeks during the Trojan War."
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "none"
+    },
+    "upgrade_paths": [
+      "Contagion Amplifier",
+      "Plague Bearer",
+      "Viral Overload"
+    ]
+}
+,
+  {
+    "word_id": 52,
+    "text": "Rebirth",
+    "cost": 20,
+    "tier": "high",
+    "categories": [
+      "metaphysical",
+      "restorative"
+    ],
+    "subcategories": [
+      "renewal",
+      "cyclical event"
+    ],
+    "elemental_affinity": [
+      "life",
+      "light",
+      "time"
+    ],
+    "material_composition": [
+      "essence",
+      "spiritual energy",
+      "memory imprint"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "low",
+      "conductivity": "variable (dependent on energy state)",
+      "durability": "high (self-restoring nature)",
+      "aerodynamic": "irrelevant (intangible concept)"
+    },
+    "biological_origin": {
+      "species_source": [
+        "mythical phoenix-like entities",
+        "regenerative organisms"
+      ],
+      "evolutionary_purpose": [
+        "survival through cycles of destruction and renewal",
+        "adapting by shedding old states for new forms"
+      ]
+    },
+    "symbolic_associations": [
+      "new beginnings",
+      "resilience",
+      "immortality",
+      "second chances"
+    ],
+    "cultural_significance": [
+      "In many mythologies, rebirth represents spiritual enlightenment or divine favor.",
+      "Common in religious beliefs, symbolizing resurrection or transcendence."
+    ],
+    "tactical_role": [
+      "Allows a defeated entity to reform or return stronger.",
+      "Can be used as a strategic reset mechanism.",
+      "Grants immunity to permanent destruction under specific conditions."
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "entropy-based attacks",
+        "decay-based effects",
+        "one-time elimination techniques"
+      ],
+      "examples": [
+        "Counters spells that erode existence by restoring lost form.",
+        "Negates instant-kill abilities by triggering a resurgence.",
+        "Opposes finality-based effects by resetting the entity’s state."
+      ],
+      "mechanism": "Restores or transforms the subject, ensuring continuity beyond conventional limits."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "void-based annihilation",
+        "soul disruption",
+        "permanent erasure"
+      ],
+      "examples": [
+        "If an entity's essence is completely destroyed, rebirth cannot occur.",
+        "A soul-disrupting force may prevent the cycle from reinitiating.",
+        "Existence-consuming techniques remove the possibility of renewal."
+      ]
+    },
+    "synergy_with": [
+      "Phoenix Flame",
+      "Time Loop",
+      "Regenerative Cocoon"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.05,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 2
+    },
+    "hypothetical_scenarios": [
+      "A warrior marked by rebirth returns stronger each time they fall.",
+      "A civilization built on cycles of destruction and renewal harnesses this power to thrive."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "Scientific theories of cyclical universe models.",
+        "Biological regeneration in certain species."
+      ],
+      "mythological_references": [
+        "The Phoenix, which burns and rises from its ashes.",
+        "The concept of reincarnation in Hinduism and Buddhism.",
+        "Osiris' resurrection in Egyptian mythology."
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "moderate (time-loop scenarios)"
+    },
+    "upgrade_paths": [
+      "Eternal Renewal",
+      "Ascended Form",
+      "Soul Resurrection"
+    ]
+}
+,
+  {
+    "word_id": 53,
+    "text": "Tectonic Shift",
+    "cost": 21,
+    "tier": "high",
+    "categories": [
+      "geophysical",
+      "cataclysmic"
+    ],
+    "subcategories": [
+      "seismic event",
+      "planetary transformation"
+    ],
+    "elemental_affinity": [
+      "earth",
+      "pressure",
+      "kinetic force"
+    ],
+    "material_composition": [
+      "rock masses",
+      "molten mantle",
+      "seismic energy"
+    ],
+    "physical_properties": {
+      "density": "massive",
+      "flammability": "low",
+      "conductivity": "low (except for heat transfer in magma)",
+      "durability": "extreme (continental scale)",
+      "aerodynamic": "irrelevant (subsurface event)"
+    },
+    "biological_origin": {
+      "species_source": [],
+      "evolutionary_purpose": []
+    },
+    "symbolic_associations": [
+      "massive change",
+      "catastrophe",
+      "unpredictable force of nature"
+    ],
+    "cultural_significance": [
+      "In mythology, tectonic shifts are often linked to divine wrath or rebirth.",
+      "Historically associated with the destruction and formation of civilizations."
+    ],
+    "tactical_role": [
+      "Destabilizes enemy structures",
+      "Creates environmental hazards (earthquakes, fissures, tsunamis)",
+      "Can shift battlefield terrain"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "static defenses",
+        "urban structures",
+        "low-mobility entities"
+      ],
+      "examples": [
+        "Fortifications collapse under seismic stress.",
+        "Stationary weapons become ineffective due to shifting ground.",
+        "Burrowing creatures may be trapped."
+      ],
+      "mechanism": "Generates massive displacement of the Earth's crust, leading to tremors, ruptures, and topographical alterations."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "flight-based entities",
+        "subsurface-adapted species",
+        "energy-based phenomena"
+      ],
+      "examples": [
+        "Aerial units remain unaffected by ground instability.",
+        "Creatures evolved to live within fault lines absorb the shock.",
+        "Dimensional warping techniques mitigate seismic disruptions."
+      ]
+    },
+    "synergy_with": [
+      "Volcanic Eruption",
+      "Seismic Wave",
+      "Continental Drift"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.048,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 2
+    },
+    "hypothetical_scenarios": [
+      "A world-altering tectonic shift splits a continent in half.",
+      "Ancient civilizations use controlled shifts to shape landscapes."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "Plate tectonics shaping Earth's continents.",
+        "Major earthquakes triggering the collapse of ancient cities."
+      ],
+      "mythological_references": [
+        "The sinking of Atlantis due to massive land shifts.",
+        "Japanese myths linking earthquakes to the movements of a giant catfish."
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "negligible"
+    },
+    "upgrade_paths": [
+      "Seismic Storm",
+      "Magma Surge",
+      "Tectonic Collapse"
+    ]
+},
+  {
+    "word_id": 54,
+    "text": "Gamma-Ray Burst",
+    "cost": 22,
+    "tier": "high",
+    "categories": [
+      "cosmic",
+      "energy-based"
+    ],
+    "subcategories": [
+      "cataclysmic event",
+      "high-energy phenomenon"
+    ],
+    "elemental_affinity": [
+      "radiation",
+      "light",
+      "plasma"
+    ],
+    "material_composition": [
+      "pure energy",
+      "high-frequency electromagnetic radiation"
+    ],
+    "physical_properties": {
+      "density": "non-material",
+      "flammability": "not applicable",
+      "conductivity": "extreme (energy-based interactions)",
+      "durability": "unstable",
+      "aerodynamic": "irrelevant (propagates in vacuum)"
+    },
+    "biological_origin": {
+      "species_source": [],
+      "evolutionary_purpose": []
+    },
+    "symbolic_associations": [
+      "cosmic destruction",
+      "ultimate energy release",
+      "celestial wrath"
+    ],
+    "cultural_significance": [
+      "Seen as a sign of cosmic upheaval in mythology and apocalyptic theories.",
+      "Referenced in astrophysical research as one of the most powerful known events in the universe."
+    ],
+    "tactical_role": [
+      "Instantaneous energy burst",
+      "Area-wide radiation effect",
+      "Disrupts energy-based entities"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "biological entities",
+        "electronic constructs",
+        "matter-based defenses"
+      ],
+      "examples": [
+        "Organic lifeforms (due to lethal radiation exposure)",
+        "AI-controlled systems susceptible to energy surges",
+        "Physical shields that can't block high-energy waves"
+      ],
+      "mechanism": "Emits an ultra-high-energy pulse capable of disrupting molecular bonds, overwhelming electrical circuits, and causing mass extinction events on planetary scales."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "quantum-anchored beings",
+        "energy-absorbing entities",
+        "dimensional disruptors"
+      ],
+      "examples": [
+        "Black hole-based entities that consume radiation",
+        "Creatures with evolved radiation immunity",
+        "Dimensional shields that phase out of reality"
+      ]
+    },
+    "synergy_with": [
+      "Singularity Collapse",
+      "Solar Flares",
+      "Void Anomalies"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.045,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 2
+    },
+    "hypothetical_scenarios": [
+      "A civilization harnesses controlled gamma-ray bursts as planetary weapons.",
+      "A cosmic event causes a GRB to wipe out entire regions of space."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "Astrophysical research into gamma-ray bursts from collapsing stars.",
+        "Potential implications for mass extinctions on Earth."
+      ],
+      "mythological_references": [
+        "Cosmic firestorms in apocalyptic prophecies.",
+        "Celestial punishments from wrathful gods."
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "amplifies when measured",
+      "entanglement_potential": "trace radiation may linger across vast distances"
+    },
+    "upgrade_paths": [
+      "Hyper-Gamma Cascade",
+      "Neutron Star Discharge",
+      "Quantum Radiation Storm"
+    ]
+}
+,
+  {
+    "word_id": 55,
+    "text": "Human Spirit",
+    "cost": 23,
+    "tier": "high",
+    "categories": [
+      "abstract",
+      "metaphysical"
+    ],
+    "subcategories": [
+      "existential force",
+      "willpower essence"
+    ],
+    "elemental_affinity": [
+      "light",
+      "fire",
+      "energy"
+    ],
+    "material_composition": [
+      "intangible",
+      "conceptual energy"
+    ],
+    "physical_properties": {
+      "density": "non-physical",
+      "flammability": "none",
+      "conductivity": "high (metaphysical energy transfer)",
+      "durability": "infinite (resilience)",
+      "aerodynamic": "irrelevant"
+    },
+    "biological_origin": {
+      "species_source": [
+        "humans",
+        "sentient lifeforms"
+      ],
+      "evolutionary_purpose": [
+        "drives survival",
+        "inspires creation",
+        "fuels perseverance"
+      ]
+    },
+    "symbolic_associations": [
+      "hope",
+      "resilience",
+      "creativity",
+      "sacrifice"
+    ],
+    "cultural_significance": [
+      "Central theme in myths of heroism and overcoming adversity.",
+      "Embodied in historical revolutions, movements, and progress.",
+      "Symbolized in literature, philosophy, and spiritual traditions."
+    ],
+    "tactical_role": [
+      "Unbreakable morale boost",
+      "Inspires allies",
+      "Counters despair-based entities"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "fear-based forces",
+        "entropy",
+        "oppression"
+      ],
+      "examples": [
+        "psychic attacks targeting willpower",
+        "existential nihilism effects",
+        "tyrannical control"
+      ],
+      "mechanism": "Transforms adversity into motivation, resisting external control and negative psychological effects."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "mind-control entities",
+        "absolute despair",
+        "soulless constructs"
+      ],
+      "examples": [
+        "AI-driven suppression of emotion",
+        "entities that nullify purpose",
+        "forces that remove individual agency"
+      ]
+    },
+    "synergy_with": [
+      "Dreams & Aspirations",
+      "Acts of Heroism",
+      "Sacrificial Power"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.043,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 3
+    },
+    "hypothetical_scenarios": [
+      "Harnessing the human spirit to counteract an existential threat.",
+      "Using collective willpower to transcend physical limitations."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "Survival stories of extreme hardship",
+        "Scientific and artistic breakthroughs despite adversity"
+      ],
+      "mythological_references": [
+        "Prometheus bringing fire to humanity",
+        "Phoenix symbolizing rebirth through struggle",
+        "Samurai bushido code of honor and perseverance"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "amplifies when acknowledged",
+      "entanglement_potential": "linked across individuals"
+    },
+    "upgrade_paths": [
+      "Indomitable Will",
+      "Cosmic Empathy",
+      "Transcendent Consciousness"
+    ]
+}
+,
+  {
+    "word_id": 56,
+    "text": "Apocalyptic Meteor",
+    "cost": 24,
+    "tier": "high",
+    "categories": [
+      "cosmic",
+      "cataclysmic"
+    ],
+    "subcategories": [
+      "planetary_destroyer",
+      "impact_weapon"
+    ],
+    "elemental_affinity": [
+      "fire",
+      "earth",
+      "gravity"
+    ],
+    "material_composition": [
+      "iron-nickel",
+      "silicates",
+      "traces of exotic elements"
+    ],
+    "physical_properties": {
+      "density": "extreme",
+      "flammability": "none",
+      "conductivity": "low",
+      "durability": "immense",
+      "aerodynamic": "poor (in space), high (upon entry)"
+    },
+    "biological_origin": {
+      "species_source": [
+        "extraterrestrial origins"
+      ],
+      "evolutionary_purpose": [
+        "random cosmic event",
+        "potential seeding of organic material",
+        "mass extinction triggers"
+      ]
+    },
+    "symbolic_associations": [
+      "doom",
+      "rebirth",
+      "unstoppable force",
+      "divine punishment"
+    ],
+    "cultural_significance": [
+      "Featured in end-of-the-world myths (e.g., Ragnarok, Mayan prophecy).",
+      "Inspired mass extinction theories (e.g., Chicxulub impact ending the dinosaurs).",
+      "Symbol of destruction and renewal in science fiction and folklore."
+    ],
+    "tactical_role": [
+      "Planetary annihilation",
+      "Terraforming via extreme impact events",
+      "Disrupting celestial orbits"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "organic life",
+        "terrestrial civilizations",
+        "low-mass structures"
+      ],
+      "examples": [
+        "biomes and ecosystems",
+        "urban megacities",
+        "space stations with weak defenses"
+      ],
+      "mechanism": "Delivers kinetic energy equivalent to billions of nuclear warheads, causing mass destruction, tsunamis, and global climate shifts."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "black holes",
+        "planetary shields",
+        "gravitational manipulation"
+      ],
+      "examples": [
+        "event horizons absorbing its mass",
+        "advanced civilizations with meteor defense systems",
+        "wormhole-based redirection"
+      ]
+    },
+    "synergy_with": [
+      "asteroid swarms",
+      "nuclear chain reactions",
+      "gravity wells"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.042,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 2
+    },
+    "hypothetical_scenarios": [
+      "Using an apocalyptic meteor to reset a planet’s ecosystem.",
+      "Weaponizing celestial bodies for interstellar warfare."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "Chicxulub impact (dinosaur extinction event)",
+        "Tunguska event (massive explosion from a meteor or comet fragment)"
+      ],
+      "mythological_references": [
+        "Norse Ragnarok prophecies",
+        "Biblical apocalypse involving celestial destruction",
+        "Mayan calendar predictions of cosmic cataclysms"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "none",
+      "entanglement_potential": "minimal"
+    },
+    "upgrade_paths": [
+      "Extinction-Class Meteor",
+      "Hypervelocity Comet",
+      "Artificially Guided Asteroid"
+    ]
+},
+  {
+    "word_id": 57,
+    "text": "Earth’s Core",
+    "cost": 25,
+    "tier": "high",
+    "categories": [
+      "geothermal",
+      "gravitational"
+    ],
+    "subcategories": [
+      "planetary_structure",
+      "energy_source"
+    ],
+    "elemental_affinity": [
+      "fire",
+      "metal",
+      "gravity"
+    ],
+    "material_composition": [
+      "iron",
+      "nickel",
+      "trace heavy elements"
+    ],
+    "physical_properties": {
+      "density": "extreme",
+      "flammability": "none",
+      "conductivity": "high",
+      "durability": "immense",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [
+        "planetary formation"
+      ],
+      "evolutionary_purpose": [
+        "maintaining Earth’s magnetic field",
+        "driving plate tectonics",
+        "stabilizing planetary structure"
+      ]
+    },
+    "symbolic_associations": [
+      "foundation",
+      "strength",
+      "hidden power",
+      "stability"
+    ],
+    "cultural_significance": [
+      "depicted in mythology as the realm of fire or the underworld",
+      "integral to scientific studies of Earth's geology and magnetism",
+      "featured in science fiction as a source of infinite energy"
+    ],
+    "tactical_role": [
+      "geothermal energy generation",
+      "planetary defense system",
+      "seismic weaponry"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "ice",
+        "organic matter",
+        "low-pressure environments"
+      ],
+      "examples": [
+        "glacial structures",
+        "biological entities",
+        "vacuum-based technology"
+      ],
+      "mechanism": "Extreme heat and pressure can melt, incinerate, or destabilize weaker materials."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "black holes",
+        "cosmic voids",
+        "exotic energy fields"
+      ],
+      "examples": [
+        "supermassive gravitational forces",
+        "antimatter reactions",
+        "dimensional rifts"
+      ]
+    },
+    "synergy_with": [
+      "volcanic activity",
+      "geothermal plants",
+      "tectonic forces"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.04,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 3
+    },
+    "hypothetical_scenarios": [
+      "Harnessing Earth's Core as an unlimited energy source.",
+      "Weaponizing seismic waves for defensive purposes."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "geothermal energy applications",
+        "earthquake and seismic studies"
+      ],
+      "mythological_references": [
+        "Hades (Greek underworld beneath the Earth)",
+        "Muspelheim (Norse realm of fire)"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "minimal"
+    },
+    "upgrade_paths": [
+      "Geothermal Supercore",
+      "Magnetosphere Amplifier",
+      "Volcanic Nexus"
+    ]
+}
+,
+  {
+    "word_id": 58,
+    "text": "Neutron Star",
+    "cost": 26,
+    "tier": "high",
+    "categories": [
+      "cosmic",
+      "gravitational"
+    ],
+    "subcategories": [
+      "collapsed_star",
+      "fundamental_force"
+    ],
+    "elemental_affinity": [
+      "gravity",
+      "magnetism"
+    ],
+    "material_composition": [
+      "degenerate matter",
+      "neutrons",
+      "crust of heavy nuclei"
+    ],
+    "physical_properties": {
+      "density": "extreme",
+      "flammability": "none",
+      "conductivity": "high",
+      "durability": "near-infinite",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [
+        "massive stars (supernova remnants)"
+      ],
+      "evolutionary_purpose": [
+        "stellar collapse",
+        "high-energy cosmic phenomena",
+        "pulsar emissions"
+      ]
+    },
+    "symbolic_associations": [
+      "immense power",
+      "compression",
+      "cosmic mystery",
+      "resilience"
+    ],
+    "cultural_significance": [
+      "central to astrophysical studies",
+      "used as a reference for extreme gravity and density",
+      "basis for science fiction concepts like neutronium armor"
+    ],
+    "tactical_role": [
+      "gravitational weapon",
+      "magnetic field manipulation",
+      "high-energy radiation emitter"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "standard matter",
+        "low-mass objects",
+        "weak electromagnetic forces"
+      ],
+      "examples": [
+        "planets",
+        "asteroids",
+        "electronic systems"
+      ],
+      "mechanism": "Extreme gravity and radiation output can disrupt or destroy weaker celestial and artificial structures."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "black holes",
+        "antimatter",
+        "quantum instability"
+      ],
+      "examples": [
+        "supermassive black holes",
+        "exotic particle interactions",
+        "Hawking radiation effects"
+      ]
+    },
+    "synergy_with": [
+      "pulsars",
+      "gravitational waves",
+      "magnetars"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.038,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 3
+    },
+    "hypothetical_scenarios": [
+      "Using neutron stars as energy sources through extreme magnetic fields.",
+      "Weaponizing pulsar beams for interstellar defense."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "studied in astrophysics",
+        "detected via radio waves as pulsars"
+      ],
+      "mythological_references": [
+        "Yggdrasil (Norse World Tree, symbolizing cosmic forces holding existence together)",
+        "Shiva (Hindu god associated with destruction and rebirth, akin to stellar evolution)"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "medium",
+      "entanglement_potential": "moderate"
+    },
+    "upgrade_paths": [
+      "Pulsar State",
+      "Magnetar Evolution",
+      "Quark Star Transition"
+    ]
+}
+,
+  {
+    "word_id": 59,
+    "text": "Supermassive Black Hole",
+    "cost": 35,
+    "tier": "high",
+    "categories": [
+      "cosmic",
+      "gravitational"
+    ],
+    "subcategories": [
+      "fundamental_force",
+      "destructive_entity"
+    ],
+    "elemental_affinity": [
+      "dark",
+      "gravity"
+    ],
+    "material_composition": [
+      "singularity",
+      "event horizon"
+    ],
+    "physical_properties": {
+      "density": "infinite",
+      "flammability": "none",
+      "conductivity": "unknown",
+      "durability": "infinite",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [
+        "universal phenomena"
+      ],
+      "evolutionary_purpose": [
+        "galactic formation",
+        "matter consumption",
+        "time dilation"
+      ]
+    },
+    "symbolic_associations": [
+      "void",
+      "destruction",
+      "mystery",
+      "infinity"
+    ],
+    "cultural_significance": [
+      "featured in many scientific theories",
+      "central to astrophysics",
+      "used as a metaphor for overwhelming power"
+    ],
+    "tactical_role": [
+      "annihilation",
+      "spacetime distortion",
+      "gravitational pull",
+      "defensive barrier"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "matter",
+        "energy",
+        "light"
+      ],
+      "examples": [
+        "stars",
+        "planets",
+        "electromagnetic waves"
+      ],
+      "mechanism": "Absorbs and crushes anything that crosses the event horizon, rendering it unusable."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "quantum phenomena",
+        "exotic matter",
+        "Hawking radiation"
+      ],
+      "examples": [
+        "virtual particles",
+        "negative energy",
+        "time paradoxes"
+      ]
+    },
+    "synergy_with": [
+      "dark matter",
+      "entropy",
+      "time dilation",
+      "void"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.029,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 3
+    },
+    "hypothetical_scenarios": [
+      "A supermassive black hole could be used as a cosmic weapon, obliterating entire star systems.",
+      "Utilizing its event horizon could allow for time manipulation or extreme gravitational slingshot maneuvers."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "studied in astrophysics",
+        "possible role in galaxy formation"
+      ],
+      "mythological_references": [
+        "Hades (Greek underworld as a metaphor for an inescapable abyss)",
+        "Kali (Hindu goddess of destruction and rebirth)"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "high",
+      "entanglement_potential": "extreme"
+    },
+    "upgrade_paths": [
+      "Quasar Activation",
+      "Hawking Radiation Decay",
+      "Singularity Collapse"
+    ]
+}
+,
+  {
+    "word_id": 60,
+    "text": "Entropy",
+    "cost": 45,
+    "tier": "high",
+    "categories": [
+      "synthetic",
+      "fundamental"
+    ],
+    "subcategories": [
+      "basic_unit",
+      "chaotic_force"
+    ],
+    "elemental_affinity": [
+      "neutral",
+      "chaotic"
+    ],
+    "material_composition": [
+      "intangible",
+      "generic"
+    ],
+    "physical_properties": {
+      "density": "variable",
+      "flammability": "low",
+      "conductivity": "variable",
+      "durability": "low",
+      "aerodynamic": false
+    },
+    "biological_origin": {
+      "species_source": [
+        "universal"
+      ],
+      "evolutionary_purpose": [
+        "deterioration",
+        "energy dissipation",
+        "natural balance"
+      ]
+    },
+    "symbolic_associations": [
+      "chaos",
+      "decay",
+      "inevitability",
+      "irreversibility"
+    ],
+    "cultural_significance": [
+      "represents disorder in physics and philosophy",
+      "central to thermodynamics and time's arrow",
+      "associated with the heat death of the universe"
+    ],
+    "tactical_role": [
+      "gradual degradation",
+      "corruption",
+      "energy dispersion",
+      "stability disruption"
+    ],
+    "strengths_against": {
+      "system_word_types": [
+        "order",
+        "structure",
+        "stability"
+      ],
+      "examples": [
+        "crystal",
+        "law",
+        "equilibrium"
+      ],
+      "mechanism": "Increases disorder, breaking down structured and stable elements over time."
+    },
+    "weaknesses_against": {
+      "system_word_types": [
+        "creation",
+        "reversal",
+        "organization"
+      ],
+      "examples": [
+        "time reversal",
+        "regeneration",
+        "harmony"
+      ]
+    },
+    "synergy_with": [
+      "time",
+      "chaos",
+      "destruction",
+      "decay"
+    ],
+    "game_metrics": {
+      "cost_efficiency_ratio": 0.022,
+      "penalty_avoidance_score": 5,
+      "versatility_index": 3
+    },
+    "hypothetical_scenarios": [
+      "Accelerating entropy could cause rapid decay or collapse of structures.",
+      "Entropy manipulation could induce irreversible transformations."
+    ],
+    "historical_precedents": {
+      "real_world_uses": [
+        "thermodynamic entropy in physics",
+        "information entropy in computing",
+        "entropy as a measure of randomness"
+      ],
+      "mythological_references": [
+        "Shiva (Hindu god of destruction and transformation)",
+        "Eris (Greek goddess of chaos)",
+        "Ragnarök (Norse mythological end of order)"
+      ]
+    },
+    "quantum_properties": {
+      "observer_effect": "low",
+      "entanglement_potential": "moderate"
+    },
+    "upgrade_paths": [
+      "Entropy Acceleration",
+      "Thermodynamic Collapse",
+      "Irreversible Corruption"
+    ]
+}
+]
+}
