@@ -1,8 +1,18 @@
 # Words of Power Battle System
 
-A strategic word combat API developed for the [Words of Power Hackathon](https://www.notion.so/Words-of-Power-1c1a368b7e0c80868fa9ed7a0d4b5519). Implements rock-paper-scissors mechanics with cost optimization and categorical relationships.
+A strategic word combat API developed for the [Words of Power Hackathon](https://www.notion.so/Hackathon-Challenge-Words-of-Power-1c5a368b7e0c803ab3c0c3865cf1eb12). Implements rock-paper-scissors mechanics with cost optimization and categorical relationships.
 
-![Battle System Diagram](https://via.placeholder.com/800x400.png?text=Words+of+Power+Flow)
+#! THIS PROJECT USES THE OLLAMA8B AI LOCALLY
+
+## Installation
+
+```bash
+# Install Ollama
+curl -fsSL https://ollama.com/install.sh | sh
+
+# Run the specific model from [Ollama Models](https://ollama.com/search)
+ollama run ollama:8b 
+
 
 ## Game Rules
 
