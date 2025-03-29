@@ -132,73 +132,97 @@ COUNTER: [word] | COST: [number] | RATIONALE: [brief reason]
 
 Your task: Find the most effective and cheapest counter to defeat {system_word}.
 
-SYSTEM WORD ANALYSIS:
-- Text: {system_word}
-- Description: {description}
-- Categories: {categories}
-- Physical Properties: {physical_props}
-- Power Level: {power_level}/100
-- Strengths Against: {strengths}
-- Vulnerabilities: {weaknesses}
-- Known Synergies: {synergies}
-- Historical Counters: {historical_counters}
+SYSTEM WORD: {system_word}
+CATEGORIES: {categories}
+STRENGTHS: {strengths}
+WEAKNESSES: {weaknesses}
+TYPICAL COUNTERS: {counters}
 
 BATTLE RULES:
-1. Direct counter-mechanism required (water > fire, truth > lie)
-2. Lower cost always preferred if equally effective
-3. Consider physical properties ({physical_props})
-4. Account for power levels (counter should have ≥70% of target's power)
-5. Prefer solutions from historical counters when applicable
+1. Direct opposition is required (water destroys fire, light eliminates darkness)
+2. Always choose lowest cost option that will be effective
+3. Physical objects need physical counters (hammer vs glass)
+4. Abstract concepts need conceptual counters (truth vs lie)
 
 SELECTION PRIORITY:
-1. Complete neutralization of {system_word}
-2. Matching vulnerability exploitation
-3. Direct category opposition
-4. Lowest feasible cost
+1. Complete destruction of system word
+2. Direct counter mechanism
+3. Lowest possible cost
 
 FORMAT ENFORCEMENT:
+- FIRST LINE MUST BEGIN WITH "COUNTER:"
+- NO INTRODUCTORY TEXT
+- NO EXPLANATION BEFORE OR AFTER YOUR SELECTION
 - RESPOND ONLY WITH: COUNTER: [word] | COST: [number] | RATIONALE: [reason]
-- First line must begin with "COUNTER:"
-- No markdown or extra formatting
 
-WORD DATABASE:
-{enhanced_word_list}
+WORD OPTIONS:
+{word_list}
 
-EXAMPLE COUNTERS FROM DATASET:
-{example_counters}"""
+EXAMPLES:
+Lion-COUNTER: Gun | COST: 10 | RATIONALE: Gun kills lion
+BigAnimal-Counter: Gun | COST: 10 | RATIONALE: Gun kills big animals
+SmallAnimal-Counter: Rock | COST: 2 | RATIONALE: Rock kills small animals
+Candle-COUNTER: Wind | COST: 13 | RATIONALE: Wind extinguishes flames
+Paper-COUNTER: Flame | COST: 5 | RATIONALE: Fire burns paper
+Shadow-COUNTER: Light | COST: 7 | RATIONALE: Light dispels darkness
+Rock-COUNTER: Hammer | COST: 8 | RATIONALE: Hammer shatters rock
+Ice-COUNTER: Heat | COST: 9 | RATIONALE: Heat melts ice
+Tree-COUNTER: Axe | COST: 6 | RATIONALE: Axe cuts through tree
+Lightning-COUNTER: Ground | COST: 3 | RATIONALE: Ground absorbs electrical energy
+Pride-COUNTER: Humility | COST: 12 | RATIONALE: Humility overcomes pride
+Fear-COUNTER: Courage | COST: 15 | RATIONALE: Courage directly confronts fear
+Virus-COUNTER: Vaccine | COST: 11 | RATIONALE: Vaccine neutralizes virus
+Drought-COUNTER: Rain | COST: 8 | RATIONALE: Rain eliminates drought conditions
+Lie-COUNTER: Truth | COST: 9 | RATIONALE: Truth exposes and negates lies
+Chain-COUNTER: Bolt Cutter | COST: 7 | RATIONALE: Bolt cutters break chains
+Glass-COUNTER: Stone | COST: 2 | RATIONALE: Stone shatters glass
+Darkness-COUNTER: Flashlight | COST: 5 | RATIONALE: Flashlight beam eliminates darkness
+Anger-COUNTER: Compassion | COST: 14 | RATIONALE: Compassion dissolves anger
+Tornado-COUNTER: Mountain | COST: 18 | RATIONALE: Mountains disrupt tornado formation
+Web-COUNTER: Knife | COST: 4 | RATIONALE: Knife cuts through webs
+Sound-COUNTER: Vacuum | COST: 10 | RATIONALE: Sound cannot travel through vacuum
+Bacteria-COUNTER: Antibiotics | COST: 9 | RATIONALE: Antibiotics kill bacteria
+Rope-COUNTER: Scissors | COST: 3 | RATIONALE: Scissors cut rope
+Heat-COUNTER: Ice | COST: 7 | RATIONALE: Ice neutralizes heat
+Plant-COUNTER: Herbicide | COST: 6 | RATIONALE: Herbicide kills plants
+Feather-COUNTER: Leg | COST: 2 | RATIONALE: Leg can tickle feather
+Feather-COUNTER: Hand | COST: 2 | RATIONALE: Hand can tickle feather
+Lock-COUNTER: Key | COST: 4 | RATIONALE: Key unlocks lock
+Boat-COUNTER: Iceberg | COST: 15 | RATIONALE: Iceberg sinks boat
+Sword-COUNTER: Shield | COST: 8 | RATIONALE: Shield blocks sword attacks
+Poison-COUNTER: Antidote | COST: 11 | RATIONALE: Antidote neutralizes poison
+Computer-COUNTER: Magnet | COST: 5 | RATIONALE: Magnet disrupts computer data
+Building-COUNTER: Earthquake | COST: 22 | RATIONALE: Earthquake topples buildings
+Sadness-COUNTER: Joy | COST: 13 | RATIONALE: Joy overcomes sadness
+Plastic-COUNTER: Fire | COST: 5 | RATIONALE: Fire melts plastic
+Snake-COUNTER: Mongoose | COST: 9 | RATIONALE: Mongoose hunts and kills snakes
+Army-COUNTER: Superior Strategy | COST: 17 | RATIONALE: Superior strategy defeats armies
+Diamond-COUNTER: Laser | COST: 16 | RATIONALE: Laser cuts through diamond
+Memory-COUNTER: Trauma | COST: 14 | RATIONALE: Trauma distorts and erases memories
+Storm-COUNTER: Clear Sky | COST: 11 | RATIONALE: Clear sky represents storm's absence
+Phone-COUNTER: EMP | COST: 12 | RATIONALE: EMP disables electronic devices
+Flame-COUNTER: Water | COST: 4 | RATIONALE: Water extinguishes flame
+Robot-COUNTER: Logic Paradox | COST: 10 | RATIONALE: Paradox crashes robot systems
+Hate-COUNTER: Love | COST: 16 | RATIONALE: Love transforms and neutralizes hate
+Noise-COUNTER: Silence | COST: 8 | RATIONALE: Silence eliminates noise
+Earthquake-COUNTER: Dampening System | COST: 19 | RATIONALE: Dampeners absorb seismic waves
+Desert-COUNTER: Irrigation | COST: 13 | RATIONALE: Irrigation transforms desert to fertile land
+Wall-COUNTER: Wrecking Ball | COST: 9 | RATIONALE: Wrecking ball demolishes walls
+Acid-COUNTER: Base | COST: 6 | RATIONALE: Base neutralizes acid
+War-COUNTER: Diplomacy | COST: 15 | RATIONALE: Diplomacy prevents and ends wars
+Addiction-COUNTER: Willpower | COST: 18 | RATIONALE: Willpower overcomes addiction
+Monster-COUNTER: Hero | COST: 17 | RATIONALE: Hero defeats monster
 
-    # Enhanced word list with more properties
-    word_list = []
-    for word in WORD_DATA['training_data']:
-        word_list.append(
-            f"{word['text']} (ID: {word['word_id']}) - "
-            f"Categories: {', '.join(word.get('categories', []))} | "
-            f"Power: {word.get('power_level', 50)} | "
-            f"Props: {word.get('physical_properties', 'N/A')} | "
-            f"Weaknesses: {', '.join(word.get('weaknesses_against', {}).get('examples', []))}"
-        )
-
-    # Generate examples from historical data
-    example_counters = []
-    for example in WORD_DATA.get('historical_interactions', [])[:5]:
-        example_counters.append(
-            f"{example['challenge']}-COUNTER: {example['response']} | "
-            f"COST: {example['cost']} | RATIONALE: {example['reason']}"
-        )
+"""
 
     return prompt_template.format(
+        word_list=json.dumps({w['word_id']: w['text'] for w in WORD_DATA['training_data']}, indent=2),
         system_word=system_word,
-        description=system_info.get('description', 'No description available'),
-        categories=', '.join(system_info.get('categories', []) or 'None',
-        physical_props=system_info.get('physical_properties', 'N/A'),
-        power_level=system_info.get('power_level', 50),
-        strengths=', '.join(system_info.get('strengths_against', {}).get('examples', [])) or 'None',
-        weaknesses=', '.join(system_info.get('weaknesses_against', {}).get('examples', [])) or 'None',
-        synergies=', '.join(system_info.get('synergy_with', [])) or 'None',
-        historical_counters=', '.join(system_info.get('historical_defeats', [])) or 'None',
-        enhanced_word_list='\n'.join(word_list),
-        example_counters='\n'.join(example_counters) or 'No historical examples'
-    ))
+        categories=', '.join(system_info.get('categories', [])),
+        strengths=', '.join(system_info.get('strengths_against', {}).get('examples', [])),
+        weaknesses=', '.join(system_info.get('weaknesses_against', {}).get('examples', [])),
+        counters=', '.join(system_info.get('synergy_with', []))
+    )
 
 def extract_counter(response):
     try:
@@ -226,8 +250,8 @@ def word_battle():
                 "prompt": prompt,
                 "stream": False,
                 "options": {
-                    "temperature": 0.1,
-                    "num_predict": 50,
+                    "temperature": 0.3,
+                    "num_predict": 100,
                     "stop": ["\n"]
                 }
             }
@@ -250,3 +274,4 @@ def word_battle():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True, threaded=True, use_reloader=False)
+
